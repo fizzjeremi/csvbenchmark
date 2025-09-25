@@ -1,0 +1,3437 @@
+Sector,Subsector,Company,Company Country
+Banking,Banks,BNP Paribas,France
+Banking,Banks,BNP Paribas,France
+Banking,Banks,Crédit Agricole Group,France
+Banking,Banks,Crédit Agricole Group,France
+Banking,Banks,Société Générale,France
+Banking,Banks,Société Générale,France
+Banking,Banks,Groupe BPCE,France
+Banking,Banks,Groupe BPCE,France
+Banking,Banks,Groupe BPCE,France
+Banking,Banks,Crédit Mutuel,France
+Banking,Banks,Crédit Mutuel,France
+Banking,Banks,La Banque Postale,France
+Banking,Banks,La Banque Postale,France
+Banking,Banks,HSBC France,France
+Banking,Banks,Banque Palatine,France
+Banking,Banks,Banque de France,France
+Banking,Banks,JPMorgan Chase,US
+Banking,Banks,JPMorgan Chase,US
+Banking,Banks,Bank of America,US
+Banking,Banks,Bank of America,US
+Banking,Banks,Citigroup,US
+Banking,Banks,Citigroup,US
+Banking,Banks,Wells Fargo,US
+Banking,Banks,Wells Fargo,US
+Banking,Banks,Goldman Sachs,US
+Banking,Banks,Goldman Sachs,US
+Banking,Banks,Morgan Stanley,US
+Banking,Banks,Morgan Stanley,US
+Banking,Banks,U.S. Bancorp,US
+Banking,Banks,U.S. Bancorp,US
+Banking,Banks,PNC Financial Services,US
+Banking,Banks,PNC Financial Services,US
+Banking,Banks,Truist Financial,US
+Banking,Banks,Truist Financial,US
+Banking,Banks,HSBC,Europe
+Banking,Banks,HSBC,Europe
+Banking,Banks,Barclays,Europe
+Banking,Banks,Barclays,Europe
+Banking,Banks,Lloyds Banking Group,Europe
+Banking,Banks,Lloyds Banking Group,Europe
+Banking,Banks,Royal Bank of Scotland Group,Europe
+Banking,Banks,Royal Bank of Scotland Group,Europe
+Banking,Banks,Deutsche Bank,Europe
+Banking,Banks,Deutsche Bank,Europe
+Banking,Banks,UBS,Europe
+Banking,Banks,UBS,Europe
+Banking,Banks,ING Group,Europe
+Banking,Banks,ING Group,Europe
+Banking,Banks,UniCredit,Europe
+Banking,Banks,UniCredit,Europe
+Banking,Banks,Industrial and Commercial Bank of China,Asia
+Banking,Banks,Industrial and Commercial Bank of China,Asia
+Banking,Banks,China Construction Bank,Asia
+Banking,Banks,China Construction Bank,Asia
+Banking,Banks,Agricultural Bank of China,Asia
+Banking,Banks,Agricultural Bank of China,Asia
+Banking,Banks,Bank of China,Asia
+Banking,Banks,Bank of China,Asia
+Banking,Banks,Mitsubishi UFJ Financial Group,Asia
+Banking,Banks,Mitsubishi UFJ Financial Group,Asia
+Banking,Banks,Sumitomo Mitsui Financial Group,Asia
+Banking,Banks,Sumitomo Mitsui Financial Group,Asia
+Banking,Banks,Mizuho Financial Group,Asia
+Banking,Banks,Mizuho Financial Group,Asia
+Banking,Banks,DBS Bank,Asia
+Banking,Banks,DBS Bank,Asia
+Banking,Capital Markets,BNP Paribas,France
+Banking,Capital Markets,Société Générale,France
+Banking,Capital Markets,Natixis,France
+Banking,Capital Markets,Crédit Agricole Group,France
+Banking,Capital Markets,La Banque Postale,France
+Banking,Capital Markets,Oddo BHF,France
+Banking,Capital Markets,Exane,France
+Banking,Capital Markets,Kepler Cheuvreux,France
+Banking,Capital Markets,Amundi,France
+Banking,Capital Markets,AXA,France
+Banking,Capital Markets,Groupe BPCE,France
+Banking,Capital Markets,Crédit Mutuel,France
+Banking,Capital Markets,HSBC France,France
+Banking,Capital Markets,Rothschild & Co,France
+Banking,Capital Markets,Lazard,France
+Banking,Capital Markets,Edmond de Rothschild,France
+Banking,Capital Markets,Bpifrance,France
+Banking,Capital Markets,Caisse des Dépôts,France
+Banking,Capital Markets,Banque Palatine,France
+Banking,Capital Markets,UBS France,France
+Banking,Capital Markets,JPMorgan Chase,US
+Banking,Capital Markets,Goldman Sachs,US
+Banking,Capital Markets,Morgan Stanley,US
+Banking,Capital Markets,Bank of America,US
+Banking,Capital Markets,Citigroup,US
+Banking,Capital Markets,Wells Fargo,US
+Banking,Capital Markets,Charles Schwab,US
+Banking,Capital Markets,Raymond James,US
+Banking,Capital Markets,Jefferies,US
+Banking,Capital Markets,BNY Mellon,US
+Banking,Capital Markets,State Street,US
+Banking,Capital Markets,BlackRock,US
+Banking,Capital Markets,Vanguard,US
+Banking,Capital Markets,Fidelity Investments,US
+Banking,Capital Markets,TD Ameritrade,US
+Banking,Capital Markets,Interactive Brokers,US
+Banking,Capital Markets,LPL Financial,US
+Banking,Capital Markets,Oppenheimer & Co.,US
+Banking,Capital Markets,Barclays,Europe
+Banking,Capital Markets,Deutsche Bank,Europe
+Banking,Capital Markets,UBS,Europe
+Banking,Capital Markets,Credit Suisse,Europe
+Banking,Capital Markets,HSBC,Europe
+Banking,Capital Markets,ING Group,Europe
+Banking,Capital Markets,UniCredit,Europe
+Banking,Capital Markets,Société Générale,Europe
+Banking,Capital Markets,BNP Paribas,Europe
+Banking,Capital Markets,NatWest Group,Europe
+Banking,Capital Markets,Rabobank,Europe
+Banking,Capital Markets,Nordea,Europe
+Banking,Capital Markets,SEB,Europe
+Banking,Capital Markets,Danske Bank,Europe
+Banking,Capital Markets,Swedbank,Europe
+Banking,Capital Markets,Nomura,Asia
+Banking,Capital Markets,Mitsubishi UFJ Financial Group,Asia
+Banking,Capital Markets,Mizuho Financial Group,Asia
+Banking,Capital Markets,Sumitomo Mitsui Financial Group,Asia
+Banking,Capital Markets,Daiwa Securities Group,Asia
+Banking,Capital Markets,SBI Holdings,Asia
+Banking,Capital Markets,China International Capital Corporation,Asia
+Banking,Capital Markets,CITIC Securities,Asia
+Banking,Capital Markets,Haitong Securities,Asia
+Banking,Capital Markets,CLSA,Asia
+Banking,Consumer Finance,BNP Paribas,France
+Banking,Consumer Finance,Crédit Agricole Group,France
+Banking,Consumer Finance,Société Générale,France
+Banking,Consumer Finance,La Banque Postale,France
+Banking,Consumer Finance,Cofidis Group,France
+Banking,Consumer Finance,Cetelem,France
+Banking,Consumer Finance,Oney Bank,France
+Banking,Consumer Finance,Crédit Mutuel,France
+Banking,Consumer Finance,Groupe BPCE,France
+Banking,Consumer Finance,Groupe BPCE,France
+Banking,Consumer Finance,Carrefour Banque,France
+Banking,Consumer Finance,Sofinco,France
+Banking,Consumer Finance,Financo,France
+Banking,Consumer Finance,Banque Accord,France
+Banking,Consumer Finance,Banque Casino,France
+Banking,Consumer Finance,JPMorgan Chase,US
+Banking,Consumer Finance,Bank of America,US
+Banking,Consumer Finance,Citigroup,US
+Banking,Consumer Finance,Wells Fargo,US
+Banking,Consumer Finance,Capital One,US
+Banking,Consumer Finance,Discover Financial Services,US
+Banking,Consumer Finance,American Express,US
+Banking,Consumer Finance,Synchrony Financial,US
+Banking,Consumer Finance,Ally Financial,US
+Banking,Consumer Finance,OneMain Holdings,US
+Banking,Consumer Finance,SoFi Technologies,US
+Banking,Consumer Finance,LendingClub,US
+Banking,Consumer Finance,Upstart Holdings,US
+Banking,Consumer Finance,Avant,US
+Banking,Consumer Finance,Prosper Marketplace,US
+Banking,Consumer Finance,Santander,Europe
+Banking,Consumer Finance,Barclays,Europe
+Banking,Consumer Finance,ING Group,Europe
+Banking,Consumer Finance,UniCredit,Europe
+Banking,Consumer Finance,Crédit Agricole Group,Europe
+Banking,Consumer Finance,Société Générale,Europe
+Banking,Consumer Finance,BNP Paribas,Europe
+Banking,Consumer Finance,Deutsche Bank,Europe
+Banking,Consumer Finance,HSBC,Europe
+Banking,Consumer Finance,Rabobank,Europe
+Banking,Consumer Finance,KBC Group,Europe
+Banking,Consumer Finance,Nordea,Europe
+Banking,Consumer Finance,Intesa Sanpaolo,Europe
+Banking,Consumer Finance,ABN AMRO,Europe
+Banking,Consumer Finance,Industrial and Commercial Bank of China,Asia
+Banking,Consumer Finance,China Construction Bank,Asia
+Banking,Consumer Finance,Agricultural Bank of China,Asia
+Banking,Consumer Finance,Bank of China,Asia
+Banking,Consumer Finance,Mitsubishi UFJ Financial Group,Asia
+Banking,Consumer Finance,Sumitomo Mitsui Financial Group,Asia
+Banking,Consumer Finance,Mizuho Financial Group,Asia
+Banking,Consumer Finance,DBS Bank,Asia
+Banking,Consumer Finance,OCBC Bank,Asia
+Banking,Consumer Finance,UOB,Asia
+Communication & Media,Media & Entertainment,Vivendi,France
+Communication & Media,Media & Entertainment,Vivendi,France
+Communication & Media,Media & Entertainment,Vivendi,France
+Communication & Media,Media & Entertainment,Vivendi,France
+Communication & Media,Media & Entertainment,Vivendi,France
+Communication & Media,Media & Entertainment,Groupe M6,France
+Communication & Media,Media & Entertainment,Groupe M6,France
+Communication & Media,Media & Entertainment,Groupe M6,France
+Communication & Media,Media & Entertainment,TF1 Group,France
+Communication & Media,Media & Entertainment,TF1 Group,France
+Communication & Media,Media & Entertainment,TF1 Group,France
+Communication & Media,Media & Entertainment,France Télévisions,France
+Communication & Media,Media & Entertainment,France Télévisions,France
+Communication & Media,Media & Entertainment,France Télévisions,France
+Communication & Media,Media & Entertainment,Altice France,France
+Communication & Media,Media & Entertainment,Altice France,France
+Communication & Media,Media & Entertainment,Lagardère Group,France
+Communication & Media,Media & Entertainment,Lagardère Group,France
+Communication & Media,Media & Entertainment,Lagardère Group,France
+Communication & Media,Media & Entertainment,Mediawan,France
+Communication & Media,Media & Entertainment,Mediawan,France
+Communication & Media,Media & Entertainment,Mediawan,France
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,The Walt Disney Company,US
+Communication & Media,Media & Entertainment,Warner Bros. Discovery,US
+Communication & Media,Media & Entertainment,Warner Bros. Discovery,US
+Communication & Media,Media & Entertainment,Warner Bros. Discovery,US
+Communication & Media,Media & Entertainment,Warner Bros. Discovery,US
+Communication & Media,Media & Entertainment,Warner Bros. Discovery,US
+Communication & Media,Media & Entertainment,Comcast,US
+Communication & Media,Media & Entertainment,Comcast,US
+Communication & Media,Media & Entertainment,Comcast,US
+Communication & Media,Media & Entertainment,Comcast,US
+Communication & Media,Media & Entertainment,Paramount Global,US
+Communication & Media,Media & Entertainment,Paramount Global,US
+Communication & Media,Media & Entertainment,Paramount Global,US
+Communication & Media,Media & Entertainment,Paramount Global,US
+Communication & Media,Media & Entertainment,Paramount Global,US
+Communication & Media,Media & Entertainment,Sony Group,US
+Communication & Media,Media & Entertainment,Sony Group,US
+Communication & Media,Media & Entertainment,Sony Group,US
+Communication & Media,Media & Entertainment,Sony Group,US
+Communication & Media,Media & Entertainment,Amazon,US
+Communication & Media,Media & Entertainment,Amazon,US
+Communication & Media,Media & Entertainment,Amazon,US
+Communication & Media,Media & Entertainment,Netflix,US
+Communication & Media,Media & Entertainment,Netflix,US
+Communication & Media,Media & Entertainment,Netflix,US
+Communication & Media,Media & Entertainment,Bertelsmann,Europe
+Communication & Media,Media & Entertainment,Bertelsmann,Europe
+Communication & Media,Media & Entertainment,Bertelsmann,Europe
+Communication & Media,Media & Entertainment,Bertelsmann,Europe
+Communication & Media,Media & Entertainment,RTL Group,Europe
+Communication & Media,Media & Entertainment,RTL Group,Europe
+Communication & Media,Media & Entertainment,RTL Group,Europe
+Communication & Media,Media & Entertainment,BBC,Europe
+Communication & Media,Media & Entertainment,BBC,Europe
+Communication & Media,Media & Entertainment,BBC,Europe
+Communication & Media,Media & Entertainment,BBC,Europe
+Communication & Media,Media & Entertainment,Sky Group,Europe
+Communication & Media,Media & Entertainment,Sky Group,Europe
+Communication & Media,Media & Entertainment,Sky Group,Europe
+Communication & Media,Media & Entertainment,Mediaset,Europe
+Communication & Media,Media & Entertainment,Mediaset,Europe
+Communication & Media,Media & Entertainment,Mediaset,Europe
+Communication & Media,Media & Entertainment,ProSiebenSat.1 Media,Europe
+Communication & Media,Media & Entertainment,ProSiebenSat.1 Media,Europe
+Communication & Media,Media & Entertainment,ProSiebenSat.1 Media,Europe
+Communication & Media,Media & Entertainment,ITV plc,Europe
+Communication & Media,Media & Entertainment,ITV plc,Europe
+Communication & Media,Media & Entertainment,ITV plc,Europe
+Communication & Media,Media & Entertainment,Sony Group,Asia
+Communication & Media,Media & Entertainment,Sony Group,Asia
+Communication & Media,Media & Entertainment,Sony Group,Asia
+Communication & Media,Media & Entertainment,Tencent,Asia
+Communication & Media,Media & Entertainment,Tencent,Asia
+Communication & Media,Media & Entertainment,Tencent,Asia
+Communication & Media,Media & Entertainment,Alibaba Group,Asia
+Communication & Media,Media & Entertainment,Alibaba Group,Asia
+Communication & Media,Media & Entertainment,Alibaba Group,Asia
+Communication & Media,Media & Entertainment,CJ ENM,Asia
+Communication & Media,Media & Entertainment,CJ ENM,Asia
+Communication & Media,Media & Entertainment,CJ ENM,Asia
+Communication & Media,Media & Entertainment,"Toho Co., Ltd.",Asia
+Communication & Media,Media & Entertainment,"Toho Co., Ltd.",Asia
+Communication & Media,Media & Entertainment,Zee Entertainment Enterprises,Asia
+Communication & Media,Media & Entertainment,Zee Entertainment Enterprises,Asia
+Communication & Media,Media & Entertainment,Zee Entertainment Enterprises,Asia
+Communication & Media,Media & Entertainment,Star India,Asia
+Communication & Media,Media & Entertainment,Star India,Asia
+Communication & Media,Media & Entertainment,Star India,Asia
+Communication & Media,Telecom Services,Orange S.A.,France
+Communication & Media,Telecom Services,Orange S.A.,France
+Communication & Media,Telecom Services,Orange S.A.,France
+Communication & Media,Telecom Services,SFR,France
+Communication & Media,Telecom Services,SFR,France
+Communication & Media,Telecom Services,Bouygues Telecom,France
+Communication & Media,Telecom Services,Bouygues Telecom,France
+Communication & Media,Telecom Services,Iliad S.A.,France
+Communication & Media,Telecom Services,Iliad S.A.,France
+Communication & Media,Telecom Services,Altice France,France
+Communication & Media,Telecom Services,Altice France,France
+Communication & Media,Telecom Services,NRJ Group,France
+Communication & Media,Telecom Services,Auchan Telecom,France
+Communication & Media,Telecom Services,Prixtel,France
+Communication & Media,Telecom Services,Lebara,France
+Communication & Media,Telecom Services,Lycamobile,France
+Communication & Media,Telecom Services,Réglo Mobile,France
+Communication & Media,Telecom Services,Coriolis Télécom,France
+Communication & Media,Telecom Services,Budget Telecom,France
+Communication & Media,Telecom Services,Kertel,France
+Communication & Media,Telecom Services,Verizon Communications,US
+Communication & Media,Telecom Services,Verizon Communications,US
+Communication & Media,Telecom Services,AT&T Inc.,US
+Communication & Media,Telecom Services,AT&T Inc.,US
+Communication & Media,Telecom Services,"T-Mobile US, Inc.",US
+Communication & Media,Telecom Services,"T-Mobile US, Inc.",US
+Communication & Media,Telecom Services,Comcast Corporation,US
+Communication & Media,Telecom Services,Comcast Corporation,US
+Communication & Media,Telecom Services,Charter Communications,US
+Communication & Media,Telecom Services,Charter Communications,US
+Communication & Media,Telecom Services,UScellular,US
+Communication & Media,Telecom Services,Lumen Technologies,US
+Communication & Media,Telecom Services,Frontier Communications,US
+Communication & Media,Telecom Services,Cox Communications,US
+Communication & Media,Telecom Services,Altice USA,US
+Communication & Media,Telecom Services,Altice USA,US
+Communication & Media,Telecom Services,Dish Network,US
+Communication & Media,Telecom Services,Google,US
+Communication & Media,Telecom Services,Amazon,US
+Communication & Media,Telecom Services,Deutsche Telekom AG,Europe
+Communication & Media,Telecom Services,Deutsche Telekom AG,Europe
+Communication & Media,Telecom Services,Vodafone Group,Europe
+Communication & Media,Telecom Services,Vodafone Group,Europe
+Communication & Media,Telecom Services,Telefónica S.A.,Europe
+Communication & Media,Telecom Services,Telefónica S.A.,Europe
+Communication & Media,Telecom Services,BT Group plc,Europe
+Communication & Media,Telecom Services,BT Group plc,Europe
+Communication & Media,Telecom Services,Iliad S.A.,Europe
+Communication & Media,Telecom Services,Iliad S.A.,Europe
+Communication & Media,Telecom Services,Proximus Group,Europe
+Communication & Media,Telecom Services,Proximus Group,Europe
+Communication & Media,Telecom Services,Telenor Group,Europe
+Communication & Media,Telecom Services,Telenor Group,Europe
+Communication & Media,Telecom Services,Telia Company,Europe
+Communication & Media,Telecom Services,Telia Company,Europe
+Communication & Media,Telecom Services,Swisscom AG,Europe
+Communication & Media,Telecom Services,Swisscom AG,Europe
+Communication & Media,Telecom Services,KPN,Europe
+Communication & Media,Telecom Services,KPN,Europe
+Communication & Media,Telecom Services,China Mobile Ltd.,Asia
+Communication & Media,Telecom Services,China Mobile Ltd.,Asia
+Communication & Media,Telecom Services,China Telecom Corp.,Asia
+Communication & Media,Telecom Services,China Telecom Corp.,Asia
+Communication & Media,Telecom Services,China Unicom,Asia
+Communication & Media,Telecom Services,China Unicom,Asia
+Communication & Media,Telecom Services,NTT Group,Asia
+Communication & Media,Telecom Services,NTT Group,Asia
+Communication & Media,Telecom Services,SoftBank Group,Asia
+Communication & Media,Telecom Services,SoftBank Group,Asia
+Communication & Media,Telecom Services,KDDI Corporation,Asia
+Communication & Media,Telecom Services,KDDI Corporation,Asia
+Communication & Media,Telecom Services,Bharti Airtel,Asia
+Communication & Media,Telecom Services,Bharti Airtel,Asia
+Communication & Media,Telecom Services,Reliance Jio Infocomm,Asia
+Communication & Media,Telecom Services,Reliance Jio Infocomm,Asia
+Communication & Media,Telecom Services,SK Telecom,Asia
+Communication & Media,Telecom Services,SK Telecom,Asia
+Communication & Media,Telecom Services,KT Corporation,Asia
+Communication & Media,Telecom Services,KT Corporation,Asia
+Communication & Media,Telecom Services,Telkomsel,Asia
+Communication & Media,Telecom Services,Telkomsel,Asia
+Communication & Media,Telecom Services,Singtel,Asia
+Communication & Media,Telecom Services,Singtel,Asia
+Communication & Media,Telecom Services,Maxis Berhad,Asia
+Communication & Media,Telecom Services,Maxis Berhad,Asia
+Consumer Goods & Retail,Retail,Carrefour,France
+Consumer Goods & Retail,Retail,Carrefour,France
+Consumer Goods & Retail,Retail,E.Leclerc,France
+Consumer Goods & Retail,Retail,E.Leclerc,France
+Consumer Goods & Retail,Retail,Intermarché,France
+Consumer Goods & Retail,Retail,Intermarché,France
+Consumer Goods & Retail,Retail,Auchan,France
+Consumer Goods & Retail,Retail,Auchan,France
+Consumer Goods & Retail,Retail,Système U,France
+Consumer Goods & Retail,Retail,Système U,France
+Consumer Goods & Retail,Retail,Casino,France
+Consumer Goods & Retail,Retail,Casino,France
+Consumer Goods & Retail,Retail,Casino,France
+Consumer Goods & Retail,Retail,Lidl,France
+Consumer Goods & Retail,Retail,Aldi,France
+Consumer Goods & Retail,Retail,Walmart,US
+Consumer Goods & Retail,Retail,Walmart,US
+Consumer Goods & Retail,Retail,Amazon,US
+Consumer Goods & Retail,Retail,Amazon,US
+Consumer Goods & Retail,Retail,Costco,US
+Consumer Goods & Retail,Retail,Target,US
+Consumer Goods & Retail,Retail,The Home Depot,US
+Consumer Goods & Retail,Retail,CVS Health,US
+Consumer Goods & Retail,Retail,Walgreens Boots Alliance,US
+Consumer Goods & Retail,Retail,Kroger,US
+Consumer Goods & Retail,Retail,Kroger,US
+Consumer Goods & Retail,Retail,Best Buy,US
+Consumer Goods & Retail,Retail,Lowe's,US
+Consumer Goods & Retail,Retail,Dollar General,US
+Consumer Goods & Retail,Retail,Dollar Tree,US
+Consumer Goods & Retail,Retail,Tesco,Europe
+Consumer Goods & Retail,Retail,Tesco,Europe
+Consumer Goods & Retail,Retail,Aldi,Europe
+Consumer Goods & Retail,Retail,Aldi,Europe
+Consumer Goods & Retail,Retail,Lidl,Europe
+Consumer Goods & Retail,Retail,Lidl,Europe
+Consumer Goods & Retail,Retail,Rewe Group,Europe
+Consumer Goods & Retail,Retail,Edeka,Europe
+Consumer Goods & Retail,Retail,Sainsbury's,Europe
+Consumer Goods & Retail,Retail,Coop,Europe
+Consumer Goods & Retail,Retail,Migros,Europe
+Consumer Goods & Retail,Retail,ICA Gruppen,Europe
+Consumer Goods & Retail,Retail,Metro AG,Europe
+Consumer Goods & Retail,Retail,El Corte Inglés,Europe
+Consumer Goods & Retail,Retail,Spar,Europe
+Consumer Goods & Retail,Retail,Alibaba Group,Asia
+Consumer Goods & Retail,Retail,Alibaba Group,Asia
+Consumer Goods & Retail,Retail,JD.com,Asia
+Consumer Goods & Retail,Retail,Seven & I Holdings,Asia
+Consumer Goods & Retail,Retail,Aeon Co.,Asia
+Consumer Goods & Retail,Retail,Reliance Retail,Asia
+Consumer Goods & Retail,Retail,Suning.com,Asia
+Consumer Goods & Retail,Retail,Rakuten,Asia
+Consumer Goods & Retail,Retail,Lotte,Asia
+Consumer Goods & Retail,Retail,Big Bazaar,Asia
+Consumer Goods & Retail,Other nonfood products,LVMH,France
+Consumer Goods & Retail,Other nonfood products,LVMH,France
+Consumer Goods & Retail,Other nonfood products,Groupe SEB,France
+Consumer Goods & Retail,Other nonfood products,Groupe SEB,France
+Consumer Goods & Retail,Other nonfood products,Fnac Darty,France
+Consumer Goods & Retail,Other nonfood products,Fnac Darty,France
+Consumer Goods & Retail,Other nonfood products,Boulanger,France
+Consumer Goods & Retail,Other nonfood products,Conforama,France
+Consumer Goods & Retail,Other nonfood products,But,France
+Consumer Goods & Retail,Other nonfood products,Leroy Merlin,France
+Consumer Goods & Retail,Other nonfood products,Castorama,France
+Consumer Goods & Retail,Other nonfood products,Decathlon,France
+Consumer Goods & Retail,Other nonfood products,Bricorama,France
+Consumer Goods & Retail,Other nonfood products,Action,France
+Consumer Goods & Retail,Other nonfood products,B&M,France
+Consumer Goods & Retail,Other nonfood products,Amazon,US
+Consumer Goods & Retail,Other nonfood products,Amazon,US
+Consumer Goods & Retail,Other nonfood products,Walmart,US
+Consumer Goods & Retail,Other nonfood products,Walmart,US
+Consumer Goods & Retail,Other nonfood products,Target,US
+Consumer Goods & Retail,Other nonfood products,Best Buy,US
+Consumer Goods & Retail,Other nonfood products,The Home Depot,US
+Consumer Goods & Retail,Other nonfood products,Lowe's,US
+Consumer Goods & Retail,Other nonfood products,Costco,US
+Consumer Goods & Retail,Other nonfood products,CVS Health,US
+Consumer Goods & Retail,Other nonfood products,Walgreens Boots Alliance,US
+Consumer Goods & Retail,Other nonfood products,Dollar General,US
+Consumer Goods & Retail,Other nonfood products,Dollar Tree,US
+Consumer Goods & Retail,Other nonfood products,Macy's,US
+Consumer Goods & Retail,Other nonfood products,Kohl's,US
+Consumer Goods & Retail,Other nonfood products,IKEA,Europe
+Consumer Goods & Retail,Other nonfood products,H&M,Europe
+Consumer Goods & Retail,Other nonfood products,Zara,Europe
+Consumer Goods & Retail,Other nonfood products,Primark,Europe
+Consumer Goods & Retail,Other nonfood products,Decathlon,Europe
+Consumer Goods & Retail,Other nonfood products,Action,Europe
+Consumer Goods & Retail,Other nonfood products,B&M,Europe
+Consumer Goods & Retail,Other nonfood products,MediaMarkt,Europe
+Consumer Goods & Retail,Other nonfood products,Saturn,Europe
+Consumer Goods & Retail,Other nonfood products,C&A,Europe
+Consumer Goods & Retail,Other nonfood products,Alibaba Group,Asia
+Consumer Goods & Retail,Other nonfood products,JD.com,Asia
+Consumer Goods & Retail,Other nonfood products,Rakuten,Asia
+Consumer Goods & Retail,Other nonfood products,Seven & I Holdings,Asia
+Consumer Goods & Retail,Other nonfood products,Aeon Co.,Asia
+Consumer Goods & Retail,Other nonfood products,Reliance Retail,Asia
+Consumer Goods & Retail,Other nonfood products,Suning.com,Asia
+Consumer Goods & Retail,Other nonfood products,Lotte,Asia
+Consumer Goods & Retail,Other nonfood products,Big Bazaar,Asia
+Consumer Goods & Retail,Other nonfood products,Muji,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",LVMH,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",LVMH,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",LVMH,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",LVMH,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Kering,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Kering,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Kering,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Hermès,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Chanel,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Lacoste,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",SMCP,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",SMCP,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",SMCP,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Longchamp,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Aigle,France
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Ralph Lauren,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",PVH Corp,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",PVH Corp,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Tapestry,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Tapestry,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Capri Holdings,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Levi Strauss & Co.,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",VF Corporation,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",VF Corporation,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",VF Corporation,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Nike,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Under Armour,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Gap Inc.,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Gap Inc.,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",L Brands,US
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Inditex,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Inditex,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Inditex,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",H&M Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",H&M Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Prada Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Prada Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Burberry,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Zegna Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Zegna Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",OTB Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",OTB Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Moncler,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Hugo Boss,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Benetton Group,Europe
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Fast Retailing,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Fast Retailing,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Shiseido Company,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Li-Ning Company,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Anta Sports,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Anta Sports,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Chow Tai Fook,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Tata Group,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",E-Land Group,Asia
+Consumer Goods & Retail,"Textiles, Apparel & Luxury Goods",Muji,Asia
+Consumer Goods & Retail,Foods & Beverages,Danone,France
+Consumer Goods & Retail,Foods & Beverages,Danone,France
+Consumer Goods & Retail,Foods & Beverages,Danone,France
+Consumer Goods & Retail,Foods & Beverages,Lactalis,France
+Consumer Goods & Retail,Foods & Beverages,Lactalis,France
+Consumer Goods & Retail,Foods & Beverages,Savencia,France
+Consumer Goods & Retail,Foods & Beverages,Savencia,France
+Consumer Goods & Retail,Foods & Beverages,Bonduelle,France
+Consumer Goods & Retail,Foods & Beverages,Bonduelle,France
+Consumer Goods & Retail,Foods & Beverages,Bel Group,France
+Consumer Goods & Retail,Foods & Beverages,Bel Group,France
+Consumer Goods & Retail,Foods & Beverages,Pernod Ricard,France
+Consumer Goods & Retail,Foods & Beverages,Pernod Ricard,France
+Consumer Goods & Retail,Foods & Beverages,Castel Group,France
+Consumer Goods & Retail,Foods & Beverages,Castel Group,France
+Consumer Goods & Retail,Foods & Beverages,PepsiCo,US
+Consumer Goods & Retail,Foods & Beverages,PepsiCo,US
+Consumer Goods & Retail,Foods & Beverages,PepsiCo,US
+Consumer Goods & Retail,Foods & Beverages,Coca-Cola Company,US
+Consumer Goods & Retail,Foods & Beverages,Coca-Cola Company,US
+Consumer Goods & Retail,Foods & Beverages,Coca-Cola Company,US
+Consumer Goods & Retail,Foods & Beverages,Kraft Heinz,US
+Consumer Goods & Retail,Foods & Beverages,Kraft Heinz,US
+Consumer Goods & Retail,Foods & Beverages,General Mills,US
+Consumer Goods & Retail,Foods & Beverages,General Mills,US
+Consumer Goods & Retail,Foods & Beverages,Tyson Foods,US
+Consumer Goods & Retail,Foods & Beverages,Tyson Foods,US
+Consumer Goods & Retail,Foods & Beverages,Mars Inc.,US
+Consumer Goods & Retail,Foods & Beverages,Mars Inc.,US
+Consumer Goods & Retail,Foods & Beverages,Mondelez,US
+Consumer Goods & Retail,Foods & Beverages,Nestlé,Europe
+Consumer Goods & Retail,Foods & Beverages,Nestlé,Europe
+Consumer Goods & Retail,Foods & Beverages,Nestlé,Europe
+Consumer Goods & Retail,Foods & Beverages,Unilever,Europe
+Consumer Goods & Retail,Foods & Beverages,Unilever,Europe
+Consumer Goods & Retail,Foods & Beverages,AB InBev,Europe
+Consumer Goods & Retail,Foods & Beverages,AB InBev,Europe
+Consumer Goods & Retail,Foods & Beverages,Heineken,Europe
+Consumer Goods & Retail,Foods & Beverages,Heineken,Europe
+Consumer Goods & Retail,Foods & Beverages,Ferrero,Europe
+Consumer Goods & Retail,Foods & Beverages,Ferrero,Europe
+Consumer Goods & Retail,Foods & Beverages,Arla Foods,Europe
+Consumer Goods & Retail,Foods & Beverages,Arla Foods,Europe
+Consumer Goods & Retail,Foods & Beverages,Diageo,Europe
+Consumer Goods & Retail,Foods & Beverages,Diageo,Europe
+Consumer Goods & Retail,Foods & Beverages,Suntory,Asia
+Consumer Goods & Retail,Foods & Beverages,Suntory,Asia
+Consumer Goods & Retail,Foods & Beverages,Asahi Group,Asia
+Consumer Goods & Retail,Foods & Beverages,Asahi Group,Asia
+Consumer Goods & Retail,Foods & Beverages,Yili Group,Asia
+Consumer Goods & Retail,Foods & Beverages,Yili Group,Asia
+Consumer Goods & Retail,Foods & Beverages,Mengniu Dairy,Asia
+Consumer Goods & Retail,Foods & Beverages,Mengniu Dairy,Asia
+Consumer Goods & Retail,Foods & Beverages,Uni-President,Asia
+Consumer Goods & Retail,Foods & Beverages,Uni-President,Asia
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Upstream,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Upstream,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Upstream,Perenco,France
+Energy & Utilities,Oil & Gas / Upstream,Vermilion Energy,France
+Energy & Utilities,Oil & Gas / Upstream,Vermilion Energy,France
+Energy & Utilities,Oil & Gas / Upstream,IPC Petroleum,France
+Energy & Utilities,Oil & Gas / Upstream,IPC Petroleum,France
+Energy & Utilities,Oil & Gas / Upstream,La Française de l'Énergie,France
+Energy & Utilities,Oil & Gas / Upstream,Esso S.A.F.,France
+Energy & Utilities,Oil & Gas / Upstream,CGG,France
+Energy & Utilities,Oil & Gas / Upstream,Technip Energies,France
+Energy & Utilities,Oil & Gas / Upstream,Vallourec,France
+Energy & Utilities,Oil & Gas / Upstream,Sercel,France
+Energy & Utilities,Oil & Gas / Upstream,Géopétrole,France
+Energy & Utilities,Oil & Gas / Upstream,Caroil,France
+Energy & Utilities,Oil & Gas / Upstream,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Upstream,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Upstream,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Upstream,Chevron,US
+Energy & Utilities,Oil & Gas / Upstream,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Upstream,Occidental Petroleum,US
+Energy & Utilities,Oil & Gas / Upstream,EOG Resources,US
+Energy & Utilities,Oil & Gas / Upstream,Pioneer Natural Resources,US
+Energy & Utilities,Oil & Gas / Upstream,Devon Energy,US
+Energy & Utilities,Oil & Gas / Upstream,Marathon Oil,US
+Energy & Utilities,Oil & Gas / Upstream,Hess Corporation,US
+Energy & Utilities,Oil & Gas / Upstream,Chesapeake Energy,US
+Energy & Utilities,Oil & Gas / Upstream,Noble Energy,US
+Energy & Utilities,Oil & Gas / Upstream,Apache Corporation,US
+Energy & Utilities,Oil & Gas / Upstream,Murphy Oil,US
+Energy & Utilities,Oil & Gas / Upstream,Continental Resources,US
+Energy & Utilities,Oil & Gas / Upstream,Whiting Petroleum,US
+Energy & Utilities,Oil & Gas / Upstream,Cabot Oil & Gas,US
+Energy & Utilities,Oil & Gas / Upstream,Range Resources,US
+Energy & Utilities,Oil & Gas / Upstream,SM Energy,US
+Energy & Utilities,Oil & Gas / Upstream,BP,Europe
+Energy & Utilities,Oil & Gas / Upstream,Shell,Europe
+Energy & Utilities,Oil & Gas / Upstream,Equinor,Europe
+Energy & Utilities,Oil & Gas / Upstream,Eni,Europe
+Energy & Utilities,Oil & Gas / Upstream,Repsol,Europe
+Energy & Utilities,Oil & Gas / Upstream,OMV,Europe
+Energy & Utilities,Oil & Gas / Upstream,Lundin Energy,Europe
+Energy & Utilities,Oil & Gas / Upstream,Aker BP,Europe
+Energy & Utilities,Oil & Gas / Upstream,Wintershall Dea,Europe
+Energy & Utilities,Oil & Gas / Upstream,Neptune Energy,Europe
+Energy & Utilities,Oil & Gas / Upstream,DNO ASA,Europe
+Energy & Utilities,Oil & Gas / Upstream,Serica Energy,Europe
+Energy & Utilities,Oil & Gas / Upstream,EnQuest,Europe
+Energy & Utilities,Oil & Gas / Upstream,MOL Group,Europe
+Energy & Utilities,Oil & Gas / Upstream,PGNiG,Europe
+Energy & Utilities,Oil & Gas / Upstream,PetroChina,Asia
+Energy & Utilities,Oil & Gas / Upstream,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Upstream,CNOOC,Asia
+Energy & Utilities,Oil & Gas / Upstream,ONGC,Asia
+Energy & Utilities,Oil & Gas / Upstream,Reliance Industries,Asia
+Energy & Utilities,Oil & Gas / Upstream,PTT Exploration & Production,Asia
+Energy & Utilities,Oil & Gas / Upstream,Petronas,Asia
+Energy & Utilities,Oil & Gas / Upstream,Inpex Corporation,Asia
+Energy & Utilities,Oil & Gas / Upstream,Bharat Petroleum,Asia
+Energy & Utilities,Oil & Gas / Upstream,Oil India Limited,Asia
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,Engie,France
+Energy & Utilities,Oil & Gas / Integrated,Engie,France
+Energy & Utilities,Oil & Gas / Integrated,Engie,France
+Energy & Utilities,Oil & Gas / Integrated,Engie,France
+Energy & Utilities,Oil & Gas / Integrated,Engie,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Vermilion Energy,France
+Energy & Utilities,Oil & Gas / Integrated,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Integrated,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Integrated,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Integrated,Chevron,US
+Energy & Utilities,Oil & Gas / Integrated,Chevron,US
+Energy & Utilities,Oil & Gas / Integrated,Chevron,US
+Energy & Utilities,Oil & Gas / Integrated,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Integrated,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Integrated,Marathon Oil,US
+Energy & Utilities,Oil & Gas / Integrated,Hess Corporation,US
+Energy & Utilities,Oil & Gas / Integrated,Occidental,US
+Energy & Utilities,Oil & Gas / Integrated,Phillips 66,US
+Energy & Utilities,Oil & Gas / Integrated,Valero Energy,US
+Energy & Utilities,Oil & Gas / Integrated,Devon Energy,US
+Energy & Utilities,Oil & Gas / Integrated,EOG Resources,US
+Energy & Utilities,Oil & Gas / Integrated,BP,Europe
+Energy & Utilities,Oil & Gas / Integrated,BP,Europe
+Energy & Utilities,Oil & Gas / Integrated,BP,Europe
+Energy & Utilities,Oil & Gas / Integrated,Shell,Europe
+Energy & Utilities,Oil & Gas / Integrated,Shell,Europe
+Energy & Utilities,Oil & Gas / Integrated,Shell,Europe
+Energy & Utilities,Oil & Gas / Integrated,Eni,Europe
+Energy & Utilities,Oil & Gas / Integrated,Eni,Europe
+Energy & Utilities,Oil & Gas / Integrated,Repsol,Europe
+Energy & Utilities,Oil & Gas / Integrated,Repsol,Europe
+Energy & Utilities,Oil & Gas / Integrated,OMV,Europe
+Energy & Utilities,Oil & Gas / Integrated,OMV,Europe
+Energy & Utilities,Oil & Gas / Integrated,Equinor,Europe
+Energy & Utilities,Oil & Gas / Integrated,Equinor,Europe
+Energy & Utilities,Oil & Gas / Integrated,MOL Group,Europe
+Energy & Utilities,Oil & Gas / Integrated,PetroChina,Asia
+Energy & Utilities,Oil & Gas / Integrated,PetroChina,Asia
+Energy & Utilities,Oil & Gas / Integrated,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Integrated,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Integrated,ONGC,Asia
+Energy & Utilities,Oil & Gas / Integrated,ONGC,Asia
+Energy & Utilities,Oil & Gas / Integrated,Petronas,Asia
+Energy & Utilities,Oil & Gas / Integrated,Petronas,Asia
+Energy & Utilities,Oil & Gas / Integrated,PTT,Asia
+Energy & Utilities,Oil & Gas / Integrated,PTT,Asia
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Maurel & Prom,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Perenco,France
+Energy & Utilities,Oil & Gas / Integrated,Esso SAF,France
+Energy & Utilities,Oil & Gas / Integrated,Esso SAF,France
+Energy & Utilities,Oil & Gas / Integrated,Vermilion Energy,France
+Energy & Utilities,Oil & Gas / Integrated,IPC Petroleum,France
+Energy & Utilities,Oil & Gas / Integrated,La Française de l'Énergie,France
+Energy & Utilities,Oil & Gas / Integrated,Technip Energies,France
+Energy & Utilities,Oil & Gas / Integrated,Vallourec,France
+Energy & Utilities,Oil & Gas / Integrated,Sercel,France
+Energy & Utilities,Oil & Gas / Integrated,Géopétrole,France
+Energy & Utilities,Oil & Gas / Integrated,Caroil,France
+Energy & Utilities,Oil & Gas / Integrated,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Integrated,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Integrated,Chevron,US
+Energy & Utilities,Oil & Gas / Integrated,Chevron,US
+Energy & Utilities,Oil & Gas / Integrated,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Integrated,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Integrated,Occidental,US
+Energy & Utilities,Oil & Gas / Integrated,Occidental,US
+Energy & Utilities,Oil & Gas / Integrated,Marathon Oil,US
+Energy & Utilities,Oil & Gas / Integrated,Hess Corporation,US
+Energy & Utilities,Oil & Gas / Integrated,Devon Energy,US
+Energy & Utilities,Oil & Gas / Integrated,EOG Resources,US
+Energy & Utilities,Oil & Gas / Integrated,Phillips 66,US
+Energy & Utilities,Oil & Gas / Integrated,Valero Energy,US
+Energy & Utilities,Oil & Gas / Integrated,Anadarko Petroleum,US
+Energy & Utilities,Oil & Gas / Integrated,Shell,Europe
+Energy & Utilities,Oil & Gas / Integrated,Shell,Europe
+Energy & Utilities,Oil & Gas / Integrated,BP,Europe
+Energy & Utilities,Oil & Gas / Integrated,BP,Europe
+Energy & Utilities,Oil & Gas / Integrated,Eni,Europe
+Energy & Utilities,Oil & Gas / Integrated,Eni,Europe
+Energy & Utilities,Oil & Gas / Integrated,Equinor,Europe
+Energy & Utilities,Oil & Gas / Integrated,Equinor,Europe
+Energy & Utilities,Oil & Gas / Integrated,OMV,Europe
+Energy & Utilities,Oil & Gas / Integrated,Repsol,Europe
+Energy & Utilities,Oil & Gas / Integrated,Repsol,Europe
+Energy & Utilities,Oil & Gas / Integrated,MOL Group,Europe
+Energy & Utilities,Oil & Gas / Integrated,Wintershall Dea,Europe
+Energy & Utilities,Oil & Gas / Integrated,Lundin Energy,Europe
+Energy & Utilities,Oil & Gas / Integrated,Galp Energia,Europe
+Energy & Utilities,Oil & Gas / Integrated,PetroChina,Asia
+Energy & Utilities,Oil & Gas / Integrated,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Integrated,CNOOC,Asia
+Energy & Utilities,Oil & Gas / Integrated,ONGC,Asia
+Energy & Utilities,Oil & Gas / Integrated,Reliance Industries,Asia
+Energy & Utilities,Oil & Gas / Integrated,Petronas,Asia
+Energy & Utilities,Oil & Gas / Integrated,PTT,Asia
+Energy & Utilities,Oil & Gas / Integrated,INPEX,Asia
+Energy & Utilities,Oil & Gas / Integrated,Pertamina,Asia
+Energy & Utilities,Oil & Gas / Integrated,Bharat Petroleum,Asia
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,Engie,France
+Energy & Utilities,Oil & Gas / Downstream,Engie,France
+Energy & Utilities,Oil & Gas / Downstream,Engie,France
+Energy & Utilities,Oil & Gas / Downstream,Rubis,France
+Energy & Utilities,Oil & Gas / Downstream,Rubis,France
+Energy & Utilities,Oil & Gas / Downstream,Géosel,France
+Energy & Utilities,Oil & Gas / Downstream,Raffinerie du Midi,France
+Energy & Utilities,Oil & Gas / Downstream,Altens,France
+Energy & Utilities,Oil & Gas / Downstream,Picoty,France
+Energy & Utilities,Oil & Gas / Downstream,Antargaz,France
+Energy & Utilities,Oil & Gas / Downstream,Butagaz,France
+Energy & Utilities,Oil & Gas / Downstream,Primagaz,France
+Energy & Utilities,Oil & Gas / Downstream,Dyneff,France
+Energy & Utilities,Oil & Gas / Downstream,Bolloré Energy,France
+Energy & Utilities,Oil & Gas / Downstream,TotalEnergies,France
+Energy & Utilities,Oil & Gas / Downstream,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Downstream,ExxonMobil,US
+Energy & Utilities,Oil & Gas / Downstream,Chevron,US
+Energy & Utilities,Oil & Gas / Downstream,Chevron,US
+Energy & Utilities,Oil & Gas / Downstream,Valero Energy,US
+Energy & Utilities,Oil & Gas / Downstream,Marathon Petroleum,US
+Energy & Utilities,Oil & Gas / Downstream,Phillips 66,US
+Energy & Utilities,Oil & Gas / Downstream,ConocoPhillips,US
+Energy & Utilities,Oil & Gas / Downstream,PBF Energy,US
+Energy & Utilities,Oil & Gas / Downstream,HollyFrontier,US
+Energy & Utilities,Oil & Gas / Downstream,Delek US Holdings,US
+Energy & Utilities,Oil & Gas / Downstream,CITGO,US
+Energy & Utilities,Oil & Gas / Downstream,Hess Corporation,US
+Energy & Utilities,Oil & Gas / Downstream,Kinder Morgan,US
+Energy & Utilities,Oil & Gas / Downstream,Energy Transfer,US
+Energy & Utilities,Oil & Gas / Downstream,BP,Europe
+Energy & Utilities,Oil & Gas / Downstream,BP,Europe
+Energy & Utilities,Oil & Gas / Downstream,Shell,Europe
+Energy & Utilities,Oil & Gas / Downstream,Shell,Europe
+Energy & Utilities,Oil & Gas / Downstream,Eni,Europe
+Energy & Utilities,Oil & Gas / Downstream,Repsol,Europe
+Energy & Utilities,Oil & Gas / Downstream,OMV,Europe
+Energy & Utilities,Oil & Gas / Downstream,Equinor,Europe
+Energy & Utilities,Oil & Gas / Downstream,MOL Group,Europe
+Energy & Utilities,Oil & Gas / Downstream,PKN Orlen,Europe
+Energy & Utilities,Oil & Gas / Downstream,Saras S.p.A,Europe
+Energy & Utilities,Oil & Gas / Downstream,Neste,Europe
+Energy & Utilities,Oil & Gas / Downstream,Galp Energia,Europe
+Energy & Utilities,Oil & Gas / Downstream,PetroChina,Asia
+Energy & Utilities,Oil & Gas / Downstream,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Downstream,Sinopec,Asia
+Energy & Utilities,Oil & Gas / Downstream,Indian Oil Corp,Asia
+Energy & Utilities,Oil & Gas / Downstream,Bharat Petroleum,Asia
+Energy & Utilities,Oil & Gas / Downstream,Reliance Industries,Asia
+Energy & Utilities,Oil & Gas / Downstream,Petronas,Asia
+Energy & Utilities,Oil & Gas / Downstream,PTT,Asia
+Energy & Utilities,Renewable Energy,TotalEnergies,France
+Energy & Utilities,Renewable Energy,TotalEnergies,France
+Energy & Utilities,Renewable Energy,TotalEnergies,France
+Energy & Utilities,Renewable Energy,TotalEnergies,France
+Energy & Utilities,Renewable Energy,TotalEnergies,France
+Energy & Utilities,Renewable Energy,EDF Renouvelables,France
+Energy & Utilities,Renewable Energy,EDF Renouvelables,France
+Energy & Utilities,Renewable Energy,EDF Renouvelables,France
+Energy & Utilities,Renewable Energy,EDF Renouvelables,France
+Energy & Utilities,Renewable Energy,EDF Renouvelables,France
+Energy & Utilities,Renewable Energy,Engie,France
+Energy & Utilities,Renewable Energy,Engie,France
+Energy & Utilities,Renewable Energy,Engie,France
+Energy & Utilities,Renewable Energy,Engie,France
+Energy & Utilities,Renewable Energy,Engie,France
+Energy & Utilities,Renewable Energy,Voltalia,France
+Energy & Utilities,Renewable Energy,Voltalia,France
+Energy & Utilities,Renewable Energy,Voltalia,France
+Energy & Utilities,Renewable Energy,Voltalia,France
+Energy & Utilities,Renewable Energy,Voltalia,France
+Energy & Utilities,Renewable Energy,NextEra Energy,US
+Energy & Utilities,Renewable Energy,NextEra Energy,US
+Energy & Utilities,Renewable Energy,GE Vernova,US
+Energy & Utilities,Renewable Energy,First Solar,US
+Energy & Utilities,Renewable Energy,Nextracker,US
+Energy & Utilities,Renewable Energy,Bloom Energy,US
+Energy & Utilities,Renewable Energy,Clearway Energy,US
+Energy & Utilities,Renewable Energy,Clearway Energy,US
+Energy & Utilities,Renewable Energy,Invenergy,US
+Energy & Utilities,Renewable Energy,Ormat Technologies,US
+Energy & Utilities,Renewable Energy,Sunrun,US
+Energy & Utilities,Renewable Energy,Enphase Energy,US
+Energy & Utilities,Renewable Energy,AES Corporation,US
+Energy & Utilities,Renewable Energy,Dominion Energy,US
+Energy & Utilities,Renewable Energy,Duke Energy,US
+Energy & Utilities,Renewable Energy,Iberdrola,Europe
+Energy & Utilities,Renewable Energy,Iberdrola,Europe
+Energy & Utilities,Renewable Energy,Enel Green Power,Europe
+Energy & Utilities,Renewable Energy,Enel Green Power,Europe
+Energy & Utilities,Renewable Energy,Ørsted,Europe
+Energy & Utilities,Renewable Energy,Ørsted,Europe
+Energy & Utilities,Renewable Energy,Vattenfall,Europe
+Energy & Utilities,Renewable Energy,Vattenfall,Europe
+Energy & Utilities,Renewable Energy,Statkraft,Europe
+Energy & Utilities,Renewable Energy,Statkraft,Europe
+Energy & Utilities,Renewable Energy,Acciona,Europe
+Energy & Utilities,Renewable Energy,SSE Renewables,Europe
+Energy & Utilities,Renewable Energy,Mainstream Renewable Power,Europe
+Energy & Utilities,Renewable Energy,Lightsource BP,Europe
+Energy & Utilities,Renewable Energy,Aquila Capital,Europe
+Energy & Utilities,Renewable Energy,ReNew Power,Asia
+Energy & Utilities,Renewable Energy,ReNew Power,Asia
+Energy & Utilities,Renewable Energy,Vena Energy,Asia
+Energy & Utilities,Renewable Energy,Vena Energy,Asia
+Energy & Utilities,Renewable Energy,Gurin Energy,Asia
+Energy & Utilities,Renewable Energy,Gurin Energy,Asia
+Energy & Utilities,Renewable Energy,JinkoSolar,Asia
+Energy & Utilities,Renewable Energy,Trina Solar,Asia
+Energy & Utilities,Renewable Energy,LONGi Green Energy,Asia
+Energy & Utilities,Renewable Energy,Tata Power,Asia
+Energy & Utilities,Electric & Gas Utilities,EDF,France
+Energy & Utilities,Electric & Gas Utilities,EDF,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Engie,France
+Energy & Utilities,Electric & Gas Utilities,Rubis,France
+Energy & Utilities,Electric & Gas Utilities,Antargaz,France
+Energy & Utilities,Electric & Gas Utilities,Butagaz,France
+Energy & Utilities,Electric & Gas Utilities,Primagaz,France
+Energy & Utilities,Electric & Gas Utilities,TotalEnergies,France
+Energy & Utilities,Electric & Gas Utilities,Eni,France
+Energy & Utilities,Electric & Gas Utilities,Electricité de Strasbourg,France
+Energy & Utilities,Electric & Gas Utilities,Enercoop,France
+Energy & Utilities,Electric & Gas Utilities,Alterna,France
+Energy & Utilities,Electric & Gas Utilities,Planète OUI,France
+Energy & Utilities,Electric & Gas Utilities,NextEra Energy,US
+Energy & Utilities,Electric & Gas Utilities,NextEra Energy,US
+Energy & Utilities,Electric & Gas Utilities,Duke Energy,US
+Energy & Utilities,Electric & Gas Utilities,Duke Energy,US
+Energy & Utilities,Electric & Gas Utilities,Southern Company,US
+Energy & Utilities,Electric & Gas Utilities,Southern Company,US
+Energy & Utilities,Electric & Gas Utilities,Dominion Energy,US
+Energy & Utilities,Electric & Gas Utilities,Dominion Energy,US
+Energy & Utilities,Electric & Gas Utilities,Exelon,US
+Energy & Utilities,Electric & Gas Utilities,Exelon,US
+Energy & Utilities,Electric & Gas Utilities,Xcel Energy,US
+Energy & Utilities,Electric & Gas Utilities,Xcel Energy,US
+Energy & Utilities,Electric & Gas Utilities,Pacific Gas and Electric Company,US
+Energy & Utilities,Electric & Gas Utilities,Sempra Energy,US
+Energy & Utilities,Electric & Gas Utilities,Sempra Energy,US
+Energy & Utilities,Electric & Gas Utilities,Entergy,US
+Energy & Utilities,Electric & Gas Utilities,Entergy,US
+Energy & Utilities,Electric & Gas Utilities,Avangrid,US
+Energy & Utilities,Electric & Gas Utilities,Avangrid,US
+Energy & Utilities,Electric & Gas Utilities,PPL Corporation,US
+Energy & Utilities,Electric & Gas Utilities,E.ON,Europe
+Energy & Utilities,Electric & Gas Utilities,E.ON,Europe
+Energy & Utilities,Electric & Gas Utilities,RWE,Europe
+Energy & Utilities,Electric & Gas Utilities,RWE,Europe
+Energy & Utilities,Electric & Gas Utilities,Enel,Europe
+Energy & Utilities,Electric & Gas Utilities,Enel,Europe
+Energy & Utilities,Electric & Gas Utilities,Iberdrola,Europe
+Energy & Utilities,Electric & Gas Utilities,Iberdrola,Europe
+Energy & Utilities,Electric & Gas Utilities,Vattenfall,Europe
+Energy & Utilities,Electric & Gas Utilities,Vattenfall,Europe
+Energy & Utilities,Electric & Gas Utilities,Fortum,Europe
+Energy & Utilities,Electric & Gas Utilities,State Grid Corporation of China,Asia
+Energy & Utilities,Electric & Gas Utilities,State Grid Corporation of China,Asia
+Energy & Utilities,Electric & Gas Utilities,China Southern Power Grid,Asia
+Energy & Utilities,Electric & Gas Utilities,China Southern Power Grid,Asia
+Energy & Utilities,Electric & Gas Utilities,Tokyo Electric Power Company,Asia
+Energy & Utilities,Electric & Gas Utilities,Tokyo Electric Power Company,Asia
+Energy & Utilities,Electric & Gas Utilities,Korea Electric Power Corporation,Asia
+Energy & Utilities,Electric & Gas Utilities,Korea Electric Power Corporation,Asia
+Energy & Utilities,Electric & Gas Utilities,NTPC Limited,Asia
+Energy & Utilities,Electric & Gas Utilities,NTPC Limited,Asia
+Health Care & Life Sciences,Biotechnology,Sanofi,France
+Health Care & Life Sciences,Biotechnology,Sanofi,France
+Health Care & Life Sciences,Biotechnology,Sanofi,France
+Health Care & Life Sciences,Biotechnology,Sanofi,France
+Health Care & Life Sciences,Biotechnology,Sanofi,France
+Health Care & Life Sciences,Biotechnology,Ipsen,France
+Health Care & Life Sciences,Biotechnology,Ipsen,France
+Health Care & Life Sciences,Biotechnology,Ipsen,France
+Health Care & Life Sciences,Biotechnology,Ipsen,France
+Health Care & Life Sciences,Biotechnology,Ipsen,France
+Health Care & Life Sciences,Biotechnology,bioMérieux,France
+Health Care & Life Sciences,Biotechnology,bioMérieux,France
+Health Care & Life Sciences,Biotechnology,bioMérieux,France
+Health Care & Life Sciences,Biotechnology,bioMérieux,France
+Health Care & Life Sciences,Biotechnology,bioMérieux,France
+Health Care & Life Sciences,Biotechnology,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Biotechnology,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Biotechnology,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Biotechnology,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Biotechnology,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Biotechnology,Amgen,US
+Health Care & Life Sciences,Biotechnology,Amgen,US
+Health Care & Life Sciences,Biotechnology,Amgen,US
+Health Care & Life Sciences,Biotechnology,Amgen,US
+Health Care & Life Sciences,Biotechnology,Amgen,US
+Health Care & Life Sciences,Biotechnology,Gilead Sciences,US
+Health Care & Life Sciences,Biotechnology,Gilead Sciences,US
+Health Care & Life Sciences,Biotechnology,Gilead Sciences,US
+Health Care & Life Sciences,Biotechnology,Gilead Sciences,US
+Health Care & Life Sciences,Biotechnology,Gilead Sciences,US
+Health Care & Life Sciences,Biotechnology,Biogen,US
+Health Care & Life Sciences,Biotechnology,Biogen,US
+Health Care & Life Sciences,Biotechnology,Biogen,US
+Health Care & Life Sciences,Biotechnology,Biogen,US
+Health Care & Life Sciences,Biotechnology,Biogen,US
+Health Care & Life Sciences,Biotechnology,Regeneron,US
+Health Care & Life Sciences,Biotechnology,Regeneron,US
+Health Care & Life Sciences,Biotechnology,Regeneron,US
+Health Care & Life Sciences,Biotechnology,Regeneron,US
+Health Care & Life Sciences,Biotechnology,Regeneron,US
+Health Care & Life Sciences,Biotechnology,Roche,Europe
+Health Care & Life Sciences,Biotechnology,Roche,Europe
+Health Care & Life Sciences,Biotechnology,Roche,Europe
+Health Care & Life Sciences,Biotechnology,Roche,Europe
+Health Care & Life Sciences,Biotechnology,Roche,Europe
+Health Care & Life Sciences,Biotechnology,Novartis,Europe
+Health Care & Life Sciences,Biotechnology,Novartis,Europe
+Health Care & Life Sciences,Biotechnology,Novartis,Europe
+Health Care & Life Sciences,Biotechnology,Novartis,Europe
+Health Care & Life Sciences,Biotechnology,Novartis,Europe
+Health Care & Life Sciences,Biotechnology,Bayer,Europe
+Health Care & Life Sciences,Biotechnology,Bayer,Europe
+Health Care & Life Sciences,Biotechnology,Bayer,Europe
+Health Care & Life Sciences,Biotechnology,Bayer,Europe
+Health Care & Life Sciences,Biotechnology,Bayer,Europe
+Health Care & Life Sciences,Biotechnology,Takeda Pharmaceutical,Asia
+Health Care & Life Sciences,Biotechnology,Takeda Pharmaceutical,Asia
+Health Care & Life Sciences,Biotechnology,Takeda Pharmaceutical,Asia
+Health Care & Life Sciences,Biotechnology,Takeda Pharmaceutical,Asia
+Health Care & Life Sciences,Biotechnology,Takeda Pharmaceutical,Asia
+Health Care & Life Sciences,Biotechnology,Sinopharm,Asia
+Health Care & Life Sciences,Biotechnology,Sinopharm,Asia
+Health Care & Life Sciences,Biotechnology,Sinopharm,Asia
+Health Care & Life Sciences,Biotechnology,Sinopharm,Asia
+Health Care & Life Sciences,Biotechnology,Sinopharm,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,bioMérieux,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,bioMérieux,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,bioMérieux,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,bioMérieux,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,bioMérieux,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Sartorius Stedim Biotech,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Thuasne,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Thuasne,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Thuasne,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Thuasne,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Thuasne,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Vygon,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Vygon,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Vygon,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Vygon,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Vygon,France
+Health Care & Life Sciences,Health Care Equipment & Supplies,Medtronic,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Medtronic,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Medtronic,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Medtronic,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Medtronic,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Becton Dickinson,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Becton Dickinson,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Becton Dickinson,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Becton Dickinson,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Becton Dickinson,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Abbott Laboratories,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Abbott Laboratories,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Abbott Laboratories,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Abbott Laboratories,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Abbott Laboratories,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Boston Scientific,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Boston Scientific,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Boston Scientific,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Boston Scientific,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Boston Scientific,US
+Health Care & Life Sciences,Health Care Equipment & Supplies,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Equipment & Supplies,Terumo Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Terumo Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Terumo Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Terumo Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Terumo Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Olympus Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Olympus Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Olympus Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Olympus Corporation,Asia
+Health Care & Life Sciences,Health Care Equipment & Supplies,Olympus Corporation,Asia
+Health Care & Life Sciences,Health Care Providers & Services,AP-HP (Assistance Publique – Hôpitaux de Paris),France
+Health Care & Life Sciences,Health Care Providers & Services,AP-HP,France
+Health Care & Life Sciences,Health Care Providers & Services,AP-HP,France
+Health Care & Life Sciences,Health Care Providers & Services,AP-HP,France
+Health Care & Life Sciences,Health Care Providers & Services,AP-HP,France
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Elsan,France
+Health Care & Life Sciences,Health Care Providers & Services,Elsan,France
+Health Care & Life Sciences,Health Care Providers & Services,Elsan,France
+Health Care & Life Sciences,Health Care Providers & Services,Elsan,France
+Health Care & Life Sciences,Health Care Providers & Services,Elsan,France
+Health Care & Life Sciences,Health Care Providers & Services,Générale de Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Générale de Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Générale de Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Générale de Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,Générale de Santé,France
+Health Care & Life Sciences,Health Care Providers & Services,UnitedHealth Group,US
+Health Care & Life Sciences,Health Care Providers & Services,UnitedHealth Group,US
+Health Care & Life Sciences,Health Care Providers & Services,UnitedHealth Group,US
+Health Care & Life Sciences,Health Care Providers & Services,UnitedHealth Group,US
+Health Care & Life Sciences,Health Care Providers & Services,UnitedHealth Group,US
+Health Care & Life Sciences,Health Care Providers & Services,CVS Health,US
+Health Care & Life Sciences,Health Care Providers & Services,CVS Health,US
+Health Care & Life Sciences,Health Care Providers & Services,CVS Health,US
+Health Care & Life Sciences,Health Care Providers & Services,CVS Health,US
+Health Care & Life Sciences,Health Care Providers & Services,CVS Health,US
+Health Care & Life Sciences,Health Care Providers & Services,HCA Healthcare,US
+Health Care & Life Sciences,Health Care Providers & Services,HCA Healthcare,US
+Health Care & Life Sciences,Health Care Providers & Services,HCA Healthcare,US
+Health Care & Life Sciences,Health Care Providers & Services,HCA Healthcare,US
+Health Care & Life Sciences,Health Care Providers & Services,HCA Healthcare,US
+Health Care & Life Sciences,Health Care Providers & Services,Kaiser Permanente,US
+Health Care & Life Sciences,Health Care Providers & Services,Kaiser Permanente,US
+Health Care & Life Sciences,Health Care Providers & Services,Kaiser Permanente,US
+Health Care & Life Sciences,Health Care Providers & Services,Kaiser Permanente,US
+Health Care & Life Sciences,Health Care Providers & Services,Kaiser Permanente,US
+Health Care & Life Sciences,Health Care Providers & Services,Fresenius SE & Co. KGaA,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Fresenius SE & Co. KGaA,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Fresenius SE & Co. KGaA,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Fresenius SE & Co. KGaA,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Health Care,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Health Care,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Health Care,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Health Care,Europe
+Health Care & Life Sciences,Health Care Providers & Services,Ramsay Health Care,Europe
+Health Care & Life Sciences,Health Care Technology,Doctolib,France
+Health Care & Life Sciences,Health Care Technology,Doctolib,France
+Health Care & Life Sciences,Health Care Technology,Doctolib,France
+Health Care & Life Sciences,Health Care Technology,Doctolib,France
+Health Care & Life Sciences,Health Care Technology,Doctolib,France
+Health Care & Life Sciences,Health Care Technology,Withings,France
+Health Care & Life Sciences,Health Care Technology,Withings,France
+Health Care & Life Sciences,Health Care Technology,Withings,France
+Health Care & Life Sciences,Health Care Technology,Withings,France
+Health Care & Life Sciences,Health Care Technology,Withings,France
+Health Care & Life Sciences,Health Care Technology,Voluntis,France
+Health Care & Life Sciences,Health Care Technology,Voluntis,France
+Health Care & Life Sciences,Health Care Technology,Voluntis,France
+Health Care & Life Sciences,Health Care Technology,Voluntis,France
+Health Care & Life Sciences,Health Care Technology,Voluntis,France
+Health Care & Life Sciences,Health Care Technology,BioSerenity,France
+Health Care & Life Sciences,Health Care Technology,BioSerenity,France
+Health Care & Life Sciences,Health Care Technology,BioSerenity,France
+Health Care & Life Sciences,Health Care Technology,BioSerenity,France
+Health Care & Life Sciences,Health Care Technology,BioSerenity,France
+Health Care & Life Sciences,Health Care Technology,Epic Systems,US
+Health Care & Life Sciences,Health Care Technology,Epic Systems,US
+Health Care & Life Sciences,Health Care Technology,Epic Systems,US
+Health Care & Life Sciences,Health Care Technology,Epic Systems,US
+Health Care & Life Sciences,Health Care Technology,Epic Systems,US
+Health Care & Life Sciences,Health Care Technology,Cerner Corporation,US
+Health Care & Life Sciences,Health Care Technology,Cerner Corporation,US
+Health Care & Life Sciences,Health Care Technology,Cerner Corporation,US
+Health Care & Life Sciences,Health Care Technology,Cerner Corporation,US
+Health Care & Life Sciences,Health Care Technology,Cerner Corporation,US
+Health Care & Life Sciences,Health Care Technology,Teladoc Health,US
+Health Care & Life Sciences,Health Care Technology,Teladoc Health,US
+Health Care & Life Sciences,Health Care Technology,Teladoc Health,US
+Health Care & Life Sciences,Health Care Technology,Teladoc Health,US
+Health Care & Life Sciences,Health Care Technology,Teladoc Health,US
+Health Care & Life Sciences,Health Care Technology,Omada Health,US
+Health Care & Life Sciences,Health Care Technology,Omada Health,US
+Health Care & Life Sciences,Health Care Technology,Omada Health,US
+Health Care & Life Sciences,Health Care Technology,Omada Health,US
+Health Care & Life Sciences,Health Care Technology,Omada Health,US
+Health Care & Life Sciences,Health Care Technology,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Technology,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Technology,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Technology,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Technology,Siemens Healthineers,Europe
+Health Care & Life Sciences,Health Care Technology,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Technology,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Technology,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Technology,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Technology,Philips Healthcare,Europe
+Health Care & Life Sciences,Health Care Technology,Babylon Health,Europe
+Health Care & Life Sciences,Health Care Technology,Babylon Health,Europe
+Health Care & Life Sciences,Health Care Technology,Babylon Health,Europe
+Health Care & Life Sciences,Health Care Technology,Babylon Health,Europe
+Health Care & Life Sciences,Health Care Technology,Babylon Health,Europe
+Health Care & Life Sciences,Health Care Technology,Ping An Good Doctor,Asia
+Health Care & Life Sciences,Health Care Technology,Ping An Good Doctor,Asia
+Health Care & Life Sciences,Health Care Technology,Ping An Good Doctor,Asia
+Health Care & Life Sciences,Health Care Technology,Ping An Good Doctor,Asia
+Health Care & Life Sciences,Health Care Technology,Ping An Good Doctor,Asia
+Health Care & Life Sciences,Health Care Technology,Halodoc,Asia
+Health Care & Life Sciences,Health Care Technology,Halodoc,Asia
+Health Care & Life Sciences,Health Care Technology,Halodoc,Asia
+Health Care & Life Sciences,Health Care Technology,Halodoc,Asia
+Health Care & Life Sciences,Health Care Technology,Halodoc,Asia
+Health Care & Life Sciences,Pharmaceuticals,Sanofi,France
+Health Care & Life Sciences,Pharmaceuticals,Sanofi,France
+Health Care & Life Sciences,Pharmaceuticals,Sanofi,France
+Health Care & Life Sciences,Pharmaceuticals,Sanofi,France
+Health Care & Life Sciences,Pharmaceuticals,Sanofi,France
+Health Care & Life Sciences,Pharmaceuticals,Ipsen,France
+Health Care & Life Sciences,Pharmaceuticals,Ipsen,France
+Health Care & Life Sciences,Pharmaceuticals,Ipsen,France
+Health Care & Life Sciences,Pharmaceuticals,Ipsen,France
+Health Care & Life Sciences,Pharmaceuticals,Ipsen,France
+Health Care & Life Sciences,Pharmaceuticals,Servier,France
+Health Care & Life Sciences,Pharmaceuticals,Servier,France
+Health Care & Life Sciences,Pharmaceuticals,Servier,France
+Health Care & Life Sciences,Pharmaceuticals,Servier,France
+Health Care & Life Sciences,Pharmaceuticals,Servier,France
+Health Care & Life Sciences,Pharmaceuticals,Pierre Fabre,France
+Health Care & Life Sciences,Pharmaceuticals,Pierre Fabre,France
+Health Care & Life Sciences,Pharmaceuticals,Pierre Fabre,France
+Health Care & Life Sciences,Pharmaceuticals,Pierre Fabre,France
+Health Care & Life Sciences,Pharmaceuticals,Pierre Fabre,France
+Health Care & Life Sciences,Pharmaceuticals,Pfizer,US
+Health Care & Life Sciences,Pharmaceuticals,Pfizer,US
+Health Care & Life Sciences,Pharmaceuticals,Pfizer,US
+Health Care & Life Sciences,Pharmaceuticals,Pfizer,US
+Health Care & Life Sciences,Pharmaceuticals,Pfizer,US
+Health Care & Life Sciences,Pharmaceuticals,Johnson & Johnson,US
+Health Care & Life Sciences,Pharmaceuticals,Johnson & Johnson,US
+Health Care & Life Sciences,Pharmaceuticals,Johnson & Johnson,US
+Health Care & Life Sciences,Pharmaceuticals,Johnson & Johnson,US
+Health Care & Life Sciences,Pharmaceuticals,Johnson & Johnson,US
+Health Care & Life Sciences,Pharmaceuticals,Merck & Co.,US
+Health Care & Life Sciences,Pharmaceuticals,Merck & Co.,US
+Health Care & Life Sciences,Pharmaceuticals,Merck & Co.,US
+Health Care & Life Sciences,Pharmaceuticals,Merck & Co.,US
+Health Care & Life Sciences,Pharmaceuticals,Merck & Co.,US
+Health Care & Life Sciences,Pharmaceuticals,AbbVie,US
+Health Care & Life Sciences,Pharmaceuticals,AbbVie,US
+Health Care & Life Sciences,Pharmaceuticals,AbbVie,US
+Health Care & Life Sciences,Pharmaceuticals,AbbVie,US
+Health Care & Life Sciences,Pharmaceuticals,AbbVie,US
+Health Care & Life Sciences,Pharmaceuticals,Novartis,Europe
+Health Care & Life Sciences,Pharmaceuticals,Novartis,Europe
+Health Care & Life Sciences,Pharmaceuticals,Novartis,Europe
+Health Care & Life Sciences,Pharmaceuticals,Novartis,Europe
+Health Care & Life Sciences,Pharmaceuticals,Novartis,Europe
+Health Care & Life Sciences,Pharmaceuticals,Roche,Europe
+Health Care & Life Sciences,Pharmaceuticals,Roche,Europe
+Health Care & Life Sciences,Pharmaceuticals,Roche,Europe
+Health Care & Life Sciences,Pharmaceuticals,Roche,Europe
+Health Care & Life Sciences,Pharmaceuticals,Roche,Europe
+Health Care & Life Sciences,Pharmaceuticals,Takeda,Asia
+Health Care & Life Sciences,Pharmaceuticals,Takeda,Asia
+Health Care & Life Sciences,Pharmaceuticals,Takeda,Asia
+Health Care & Life Sciences,Pharmaceuticals,Takeda,Asia
+Health Care & Life Sciences,Pharmaceuticals,Takeda,Asia
+Health Care & Life Sciences,Pharmaceuticals,Astellas Pharma,Asia
+Health Care & Life Sciences,Pharmaceuticals,Astellas Pharma,Asia
+Health Care & Life Sciences,Pharmaceuticals,Astellas Pharma,Asia
+Health Care & Life Sciences,Pharmaceuticals,Astellas Pharma,Asia
+Health Care & Life Sciences,Pharmaceuticals,Astellas Pharma,Asia
+Health Care & Life Sciences,Medical Devices,EssilorLuxottica,France
+Health Care & Life Sciences,Medical Devices,EssilorLuxottica,France
+Health Care & Life Sciences,Medical Devices,EssilorLuxottica,France
+Health Care & Life Sciences,Medical Devices,EssilorLuxottica,France
+Health Care & Life Sciences,Medical Devices,EssilorLuxottica,France
+Health Care & Life Sciences,Medical Devices,bioMérieux,France
+Health Care & Life Sciences,Medical Devices,bioMérieux,France
+Health Care & Life Sciences,Medical Devices,bioMérieux,France
+Health Care & Life Sciences,Medical Devices,bioMérieux,France
+Health Care & Life Sciences,Medical Devices,bioMérieux,France
+Health Care & Life Sciences,Medical Devices,Tissium,France
+Health Care & Life Sciences,Medical Devices,Tissium,France
+Health Care & Life Sciences,Medical Devices,Tissium,France
+Health Care & Life Sciences,Medical Devices,Tissium,France
+Health Care & Life Sciences,Medical Devices,Tissium,France
+Health Care & Life Sciences,Medical Devices,Affluent Medical,France
+Health Care & Life Sciences,Medical Devices,Affluent Medical,France
+Health Care & Life Sciences,Medical Devices,Affluent Medical,France
+Health Care & Life Sciences,Medical Devices,Affluent Medical,France
+Health Care & Life Sciences,Medical Devices,Affluent Medical,France
+Health Care & Life Sciences,Medical Devices,Medtronic,US
+Health Care & Life Sciences,Medical Devices,Medtronic,US
+Health Care & Life Sciences,Medical Devices,Medtronic,US
+Health Care & Life Sciences,Medical Devices,Medtronic,US
+Health Care & Life Sciences,Medical Devices,Medtronic,US
+Health Care & Life Sciences,Medical Devices,Johnson & Johnson,US
+Health Care & Life Sciences,Medical Devices,Johnson & Johnson,US
+Health Care & Life Sciences,Medical Devices,Johnson & Johnson,US
+Health Care & Life Sciences,Medical Devices,Johnson & Johnson,US
+Health Care & Life Sciences,Medical Devices,Johnson & Johnson,US
+Health Care & Life Sciences,Medical Devices,Abbott Laboratories,US
+Health Care & Life Sciences,Medical Devices,Abbott Laboratories,US
+Health Care & Life Sciences,Medical Devices,Abbott Laboratories,US
+Health Care & Life Sciences,Medical Devices,Abbott Laboratories,US
+Health Care & Life Sciences,Medical Devices,Abbott Laboratories,US
+Health Care & Life Sciences,Medical Devices,Stryker,US
+Health Care & Life Sciences,Medical Devices,Stryker,US
+Health Care & Life Sciences,Medical Devices,Stryker,US
+Health Care & Life Sciences,Medical Devices,Stryker,US
+Health Care & Life Sciences,Medical Devices,Stryker,US
+Health Care & Life Sciences,Medical Devices,Siemens Healthineers,Europe
+Health Care & Life Sciences,Medical Devices,Siemens Healthineers,Europe
+Health Care & Life Sciences,Medical Devices,Siemens Healthineers,Europe
+Health Care & Life Sciences,Medical Devices,Siemens Healthineers,Europe
+Health Care & Life Sciences,Medical Devices,Siemens Healthineers,Europe
+Health Care & Life Sciences,Medical Devices,Philips Healthcare,Europe
+Health Care & Life Sciences,Medical Devices,Philips Healthcare,Europe
+Health Care & Life Sciences,Medical Devices,Philips Healthcare,Europe
+Health Care & Life Sciences,Medical Devices,Philips Healthcare,Europe
+Health Care & Life Sciences,Medical Devices,Philips Healthcare,Europe
+Health Care & Life Sciences,Medical Devices,Smith & Nephew,Europe
+Health Care & Life Sciences,Medical Devices,Smith & Nephew,Europe
+Health Care & Life Sciences,Medical Devices,Smith & Nephew,Europe
+Health Care & Life Sciences,Medical Devices,Smith & Nephew,Europe
+Health Care & Life Sciences,Medical Devices,Smith & Nephew,Europe
+Health Care & Life Sciences,Medical Devices,Olympus,Asia
+Health Care & Life Sciences,Medical Devices,Olympus,Asia
+Health Care & Life Sciences,Medical Devices,Olympus,Asia
+Health Care & Life Sciences,Medical Devices,Olympus,Asia
+Health Care & Life Sciences,Medical Devices,Olympus,Asia
+Health Care & Life Sciences,Medical Devices,Terumo,Asia
+Health Care & Life Sciences,Medical Devices,Terumo,Asia
+Health Care & Life Sciences,Medical Devices,Terumo,Asia
+Health Care & Life Sciences,Medical Devices,Terumo,Asia
+Health Care & Life Sciences,Medical Devices,Terumo,Asia
+Industrials,Automobiles & Components,Renault Group,France
+Industrials,Automobiles & Components,Renault Group,France
+Industrials,Automobiles & Components,Renault Group,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,Stellantis,France
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Rivian,US
+Industrials,Automobiles & Components,Lucid Motors,US
+Industrials,Automobiles & Components,Nikola Corporation,US
+Industrials,Automobiles & Components,Lordstown Motors,US
+Industrials,Automobiles & Components,Fisker Inc.,US
+Industrials,Automobiles & Components,Canoo Inc.,US
+Industrials,Automobiles & Components,Bollinger Motors,US
+Industrials,Automobiles & Components,Faraday Future,US
+Industrials,Automobiles & Components,Karma Automotive,US
+Industrials,Automobiles & Components,Hennessey Performance,US
+Industrials,Automobiles & Components,Saleen Automotive,US
+Industrials,Automobiles & Components,SSC North America,US
+Industrials,Automobiles & Components,Panoz LLC,US
+Industrials,Automobiles & Components,Rezvani Motors,US
+Industrials,Automobiles & Components,DeLorean Motor Company,US
+Industrials,Automobiles & Components,Aptera Motors,US
+Industrials,Automobiles & Components,Alpha Motor Corporation,US
+Industrials,Automobiles & Components,Drako Motors,US
+Industrials,Automobiles & Components,Elio Motors,US
+Industrials,Automobiles & Components,Local Motors,US
+Industrials,Automobiles & Components,Vanderhall Motor Works,US
+Industrials,Automobiles & Components,Meyers Manx,US
+Industrials,Automobiles & Components,Scuderia Cameron Glickenhaus,US
+Industrials,Automobiles & Components,SSC North America,US
+Industrials,Automobiles & Components,Lucid Motors,US
+Industrials,Automobiles & Components,Rivian,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Rivian,US
+Industrials,Automobiles & Components,Lucid Motors,US
+Industrials,Automobiles & Components,Nikola Corporation,US
+Industrials,Automobiles & Components,Lordstown Motors,US
+Industrials,Automobiles & Components,Fisker Inc.,US
+Industrials,Automobiles & Components,Canoo Inc.,US
+Industrials,Automobiles & Components,Bollinger Motors,US
+Industrials,Automobiles & Components,Faraday Future,US
+Industrials,Automobiles & Components,Karma Automotive,US
+Industrials,Automobiles & Components,Hennessey Performance,US
+Industrials,Automobiles & Components,Saleen Automotive,US
+Industrials,Automobiles & Components,SSC North America,US
+Industrials,Automobiles & Components,Panoz LLC,US
+Industrials,Automobiles & Components,Rezvani Motors,US
+Industrials,Automobiles & Components,DeLorean Motor Company,US
+Industrials,Automobiles & Components,Aptera Motors,US
+Industrials,Automobiles & Components,Alpha Motor Corporation,US
+Industrials,Automobiles & Components,Drako Motors,US
+Industrials,Automobiles & Components,Elio Motors,US
+Industrials,Automobiles & Components,Local Motors,US
+Industrials,Automobiles & Components,Vanderhall Motor Works,US
+Industrials,Automobiles & Components,Meyers Manx,US
+Industrials,Automobiles & Components,Scuderia Cameron Glickenhaus,US
+Industrials,Automobiles & Components,SSC North America,US
+Industrials,Automobiles & Components,Lucid Motors,US
+Industrials,Automobiles & Components,Rivian,US
+Industrials,Automobiles & Components,Tesla,US
+Industrials,Automobiles & Components,Ford Motor Company,US
+Industrials,Automobiles & Components,General Motors,US
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,Volkswagen Group,Europe
+Industrials,Automobiles & Components,BMW Group,Europe
+Industrials,Automobiles & Components,BMW Group,Europe
+Industrials,Automobiles & Components,BMW Group,Europe
+Industrials,Automobiles & Components,Mercedes-Benz Group,Europe
+Industrials,Automobiles & Components,Mercedes-Benz Group,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Stellantis,Europe
+Industrials,Automobiles & Components,Renault Group,Europe
+Industrials,Automobiles & Components,Renault Group,Europe
+Industrials,Automobiles & Components,Renault Group,Europe
+Industrials,Automobiles & Components,Volvo Cars,Europe
+Industrials,Automobiles & Components,Jaguar Land Rover,Europe
+Industrials,Automobiles & Components,Jaguar Land Rover,Europe
+Industrials,Automobiles & Components,Ferrari,Europe
+Industrials,Automobiles & Components,Aston Martin Lagonda,Europe
+Industrials,Automobiles & Components,McLaren Automotive,Europe
+Industrials,Automobiles & Components,Lotus Cars,Europe
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,Toyota Motor Corporation,Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Honda Motor Co., Ltd.",Asia
+Industrials,Automials,Asia,Automobiles & Components
+Industrials,Automobiles & Components,"Nissan Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Nissan Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Nissan Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,"Nissan Motor Co., Ltd.",Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Automobiles & Components,Hyundai Motor Group,Asia
+Industrials,Aerospace & Defense,Airbus,France
+Industrials,Aerospace & Defense,Airbus,France
+Industrials,Aerospace & Defense,Thales,France
+Industrials,Aerospace & Defense,Thales,France
+Industrials,Aerospace & Defense,Safran,France
+Industrials,Aerospace & Defense,Safran,France
+Industrials,Aerospace & Defense,Dassault Aviation,France
+Industrials,Aerospace & Defense,MBDA,France
+Industrials,Aerospace & Defense,KNDS,France
+Industrials,Aerospace & Defense,Naval Group,France
+Industrials,Aerospace & Defense,ArianeGroup,France
+Industrials,Aerospace & Defense,Indra,France
+Industrials,Aerospace & Defense,Arquus,France
+Industrials,Aerospace & Defense,Delair,France
+Industrials,Aerospace & Defense,Aresia,France
+Industrials,Aerospace & Defense,BAE Systems,Europe
+Industrials,Aerospace & Defense,Leonardo,Europe
+Industrials,Aerospace & Defense,Leonardo,Europe
+Industrials,Aerospace & Defense,Rheinmetall,Europe
+Industrials,Aerospace & Defense,Saab,Europe
+Industrials,Aerospace & Defense,Saab,Europe
+Industrials,Aerospace & Defense,MBDA,Europe
+Industrials,Aerospace & Defense,MBDA,Europe
+Industrials,Aerospace & Defense,Rolls-Royce,Europe
+Industrials,Aerospace & Defense,Fincantieri,Europe
+Industrials,Aerospace & Defense,Kongsberg Gruppen,Europe
+Industrials,Aerospace & Defense,QinetiQ,Europe
+Industrials,Aerospace & Defense,Hensoldt,Europe
+Industrials,Aerospace & Defense,Indra,Europe
+Industrials,Aerospace & Defense,AVIC,Asia
+Industrials,Aerospace & Defense,AVIC,Asia
+Industrials,Aerospace & Defense,AVIC,Asia
+Industrials,Aerospace & Defense,CASC,Asia
+Industrials,Aerospace & Defense,CASIC,Asia
+Industrials,Aerospace & Defense,Hanwha Aerospace,Asia
+Industrials,Aerospace & Defense,Hanwha Aerospace,Asia
+Industrials,Aerospace & Defense,Korea Aerospace Industries,Asia
+Industrials,Aerospace & Defense,Mitsubishi Heavy Industries,Asia
+Industrials,Aerospace & Defense,Mitsubishi Electric,Asia
+Industrials,Construction,VINCI,France
+Industrials,Construction,VINCI,France
+Industrials,Construction,VINCI,France
+Industrials,Construction,Bouygues,France
+Industrials,Construction,Bouygues,France
+Industrials,Construction,Bouygues,France
+Industrials,Construction,Eiffage,France
+Industrials,Construction,Eiffage,France
+Industrials,Construction,Eiffage,France
+Industrials,Construction,Fayat,France
+Industrials,Construction,Fayat,France
+Industrials,Construction,NGE,France
+Industrials,Construction,NGE,France
+Industrials,Construction,Léon Grosse,France
+Industrials,Construction,Spie Batignolles,France
+Industrials,Construction,Demathieu Bard,France
+Industrials,Construction,EGIS,France
+Industrials,Construction,EGIS,France
+Industrials,Construction,GCC,France
+Industrials,Construction,GCC,France
+Industrials,Construction,ACS Group,Europe
+Industrials,Construction,ACS Group,Europe
+Industrials,Construction,Strabag,Europe
+Industrials,Construction,Skanska,Europe
+Industrials,Construction,Webuild,Europe
+Industrials,Construction,Saipem,Europe
+Industrials,Construction,Acciona,Europe
+Industrials,Construction,Ferrovial,Europe
+Industrials,Construction,Balfour Beatty,Europe
+Industrials,Construction,Royal BAM Group,Europe
+Industrials,Construction,Mota-Engil,Europe
+Industrials,Construction,PORR AG,Europe
+Industrials,Construction,NCC AB,Europe
+Industrials,Construction,YIT Corporation,Europe
+Industrials,Construction,Peab AB,Europe
+Industrials,Construction,CSCEC,Asia
+Industrials,Construction,CSCEC,Asia
+Industrials,Construction,China Railway Group,Asia
+Industrials,Construction,China Railway Construction Corporation,Asia
+Industrials,Construction,China Communications Construction Company,Asia
+Industrials,Construction,PowerChina,Asia
+Industrials,Construction,China Energy Engineering Group,Asia
+Industrials,Construction,Hyundai E&C,Asia
+Industrials,Construction,Samsung C&T,Asia
+Industrials,Construction,Obayashi Corporation,Asia
+Industrials,Construction,Turner Construction Co.,US
+Industrials,Construction,Bechtel,US
+Industrials,Construction,Kiewit Corporation,US
+Industrials,Construction,MasTec Inc.,US
+Industrials,Construction,The Whiting-Turner Contracting Co.,US
+Industrials,Construction,STO Building Group,US
+Industrials,Construction,DPR Construction,US
+Industrials,Construction,Fluor Corporation,US
+Industrials,Construction,Clark Group,US
+Industrials,Construction,Skanska USA,US
+Industrials,Construction,Hensel Phelps,US
+Industrials,Construction,Gilbane Building Company,US
+Industrials,Construction,JE Dunn Construction,US
+Industrials,Construction,AECOM,US
+Industrials,Construction,ARCO Construction,US
+Industrials,Other Industrials,Bouygues,France
+Industrials,Other Industrials,Vinci,France
+Industrials,Other Industrials,Saint-Gobain,France
+Industrials,Other Industrials,Schneider Electric,France
+Industrials,Other Industrials,Alstom,France
+Industrials,Other Industrials,Thales,France
+Industrials,Other Industrials,Dassault Systèmes,France
+Industrials,Other Industrials,Safran,France
+Industrials,Other Industrials,Naval Group,France
+Industrials,Other Industrials,Technip Energies,France
+Industrials,Other Industrials,Eiffage,France
+Industrials,Other Industrials,Areva,France
+Industrials,Other Industrials,Suez,France
+Industrials,Other Industrials,Veolia,France
+Industrials,Other Industrials,RATP Group,France
+Industrials,Other Industrials,General Electric,US
+Industrials,Other Industrials,Honeywell,US
+Industrials,Other Industrials,3M,US
+Industrials,Other Industrials,United Technologies,US
+Industrials,Other Industrials,Emerson Electric,US
+Industrials,Other Industrials,Johnson Controls,US
+Industrials,Other Industrials,Illinois Tool Works,US
+Industrials,Other Industrials,Parker Hannifin,US
+Industrials,Other Industrials,Danaher Corporation,US
+Industrials,Other Industrials,Textron,US
+Industrials,Other Industrials,Rockwell Automation,US
+Industrials,Other Industrials,Eaton Corporation,US
+Industrials,Other Industrials,Dover Corporation,US
+Industrials,Other Industrials,Fortive Corporation,US
+Industrials,Other Industrials,Ingersoll Rand,US
+Industrials,Other Industrials,Siemens AG,Europe
+Industrials,Other Industrials,ABB Ltd,Europe
+Industrials,Other Industrials,Bosch Group,Europe
+Industrials,Other Industrials,Rolls-Royce Holdings,Europe
+Industrials,Other Industrials,BAE Systems,Europe
+Industrials,Other Industrials,SKF,Europe
+Industrials,Other Industrials,Thyssenkrupp AG,Europe
+Industrials,Other Industrials,Voith GmbH,Europe
+Industrials,Other Industrials,Kone Corporation,Europe
+Industrials,Other Industrials,Atlas Copco,Europe
+Industrials,Other Industrials,GKN Ltd,Europe
+Industrials,Other Industrials,Schneider Electric,Europe
+Industrials,Other Industrials,Alstom,Europe
+Industrials,Other Industrials,Wärtsilä Corporation,Europe
+Industrials,Other Industrials,Sandvik AB,Europe
+Industrials,Other Industrials,Mitsubishi Heavy Industries,Asia
+Industrials,Other Industrials,Hitachi Ltd.,Asia
+Industrials,Other Industrials,Toshiba Corporation,Asia
+Industrials,Other Industrials,Kawasaki Heavy Industries,Asia
+Industrials,Other Industrials,Hyundai Heavy Industries,Asia
+Industrials,Other Industrials,Doosan Corporation,Asia
+Industrials,Other Industrials,Sumitomo Heavy Industries,Asia
+Industrials,Other Industrials,Komatsu Ltd.,Asia
+Industrials,Other Industrials,Bharat Heavy Electricals Limited,Asia
+Industrials,Other Industrials,Larsen & Toubro,Asia
+Industrials,Electrical & Electronic Equipment,Schneider Electric,France
+Industrials,Electrical & Electronic Equipment,Legrand,France
+Industrials,Electrical & Electronic Equipment,Nexans,France
+Industrials,Electrical & Electronic Equipment,Sagemcom,France
+Industrials,Electrical & Electronic Equipment,Socomec,France
+Industrials,Electrical & Electronic Equipment,Chauvin Arnoux,France
+Industrials,Electrical & Electronic Equipment,Delphine,France
+Industrials,Electrical & Electronic Equipment,Crouzet,France
+Industrials,Electrical & Electronic Equipment,Acome,France
+Industrials,Electrical & Electronic Equipment,Tronics,France
+Industrials,Electrical & Electronic Equipment,Lacroix Group,France
+Industrials,Electrical & Electronic Equipment,Radiall,France
+Industrials,Electrical & Electronic Equipment,Mersen,France
+Industrials,Electrical & Electronic Equipment,Actia Group,France
+Industrials,Electrical & Electronic Equipment,Exxelia,France
+Industrials,Electrical & Electronic Equipment,General Electric,US
+Industrials,Electrical & Electronic Equipment,Honeywell,US
+Industrials,Electrical & Electronic Equipment,Emerson Electric,US
+Industrials,Electrical & Electronic Equipment,Rockwell Automation,US
+Industrials,Electrical & Electronic Equipment,Eaton Corporation,US
+Industrials,Electrical & Electronic Equipment,AMETEK,US
+Industrials,Electrical & Electronic Equipment,Hubbell Incorporated,US
+Industrials,Electrical & Electronic Equipment,TE Connectivity,US
+Industrials,Electrical & Electronic Equipment,Danaher Corporation,US
+Industrials,Electrical & Electronic Equipment,Thermo Fisher Scientific,US
+Industrials,Electrical & Electronic Equipment,Fortive Corporation,US
+Industrials,Electrical & Electronic Equipment,AMETEK,US
+Industrials,Electrical & Electronic Equipment,Littelfuse,US
+Industrials,Electrical & Electronic Equipment,Regal Rexnord,US
+Industrials,Electrical & Electronic Equipment,National Instruments,US
+Industrials,Electrical & Electronic Equipment,Mitsubishi Electric,Asia
+Industrials,Electrical & Electronic Equipment,Hitachi Ltd.,Asia
+Industrials,Electrical & Electronic Equipment,Toshiba Corporation,Asia
+Industrials,Electrical & Electronic Equipment,Panasonic Holdings,Asia
+Industrials,Electrical & Electronic Equipment,Fuji Electric,Asia
+Industrials,Electrical & Electronic Equipment,LG Electronics,Asia
+Industrials,Electrical & Electronic Equipment,Samsung Electronics,Asia
+Industrials,Electrical & Electronic Equipment,Hyundai Electric,Asia
+Industrials,Electrical & Electronic Equipment,BYD Company,Asia
+Industrials,Electrical & Electronic Equipment,Delta Electronics,Asia
+Industrials,Electrical & Electronic Equipment,Siemens AG,Europe
+Industrials,Electrical & Electronic Equipment,ABB Ltd,Europe
+Industrials,Electrical & Electronic Equipment,Schneider Electric,Europe
+Industrials,Electrical & Electronic Equipment,Legrand,Europe
+Industrials,Electrical & Electronic Equipment,Bosch Group,Europe
+Industrials,Electrical & Electronic Equipment,Philips,Europe
+Industrials,Electrical & Electronic Equipment,Prysmian Group,Europe
+Industrials,Electrical & Electronic Equipment,WEG Industries,Europe
+Industrials,Electrical & Electronic Equipment,Vestas Wind Systems,Europe
+Industrials,Electrical & Electronic Equipment,Schneider Electric,Europe
+Industrials,Electrical & Electronic Equipment,Siemens AG,Europe
+Industrials,Electrical & Electronic Equipment,ABB Ltd,Europe
+Industrials,Electrical & Electronic Equipment,Schneider Electric,Europe
+Industrials,Electrical & Electronic Equipment,Legrand,Europe
+Industrials,Electrical & Electronic Equipment,Bosch Group,Europe
+Industrials,Electrical & Electronic Equipment,Philips,Europe
+Industrials,Electrical & Electronic Equipment,Prysmian Group,Europe
+Industrials,Electrical & Electronic Equipment,WEG Industries,Europe
+Industrials,Electrical & Electronic Equipment,Vestas Wind Systems,Europe
+Industrials,Electrical & Electronic Equipment,Schneider Electric,Europe
+Industrials,Industrial Conglomerates,General Electric,US
+Industrials,Industrial Conglomerates,Honeywell,US
+Industrials,Industrial Conglomerates,3M,US
+Industrials,Industrial Conglomerates,United Technologies,US
+Industrials,Industrial Conglomerates,Emerson Electric,US
+Industrials,Industrial Conglomerates,Johnson Controls,US
+Industrials,Industrial Conglomerates,Illinois Tool Works,US
+Industrials,Industrial Conglomerates,Parker Hannifin,US
+Industrials,Industrial Conglomerates,Danaher Corporation,US
+Industrials,Industrial Conglomerates,Textron,US
+Industrials,Industrial Conglomerates,Rockwell Automation,US
+Industrials,Industrial Conglomerates,Eaton Corporation,US
+Industrials,Industrial Conglomerates,Dover Corporation,US
+Industrials,Industrial Conglomerates,Fortive Corporation,US
+Industrials,Industrial Conglomerates,Ingersoll Rand,US
+Industrials,Industrial Conglomerates,Siemens AG,Europe
+Industrials,Industrial Conglomerates,ABB Ltd,Europe
+Industrials,Industrial Conglomerates,Bosch Group,Europe
+Industrials,Industrial Conglomerates,Rolls-Royce Holdings,Europe
+Industrials,Industrial Conglomerates,BAE Systems,Europe
+Industrials,Industrial Conglomerates,SKF,Europe
+Industrials,Industrial Conglomerates,Thyssenkrupp AG,Europe
+Industrials,Industrial Conglomerates,Voith GmbH,Europe
+Industrials,Industrial Conglomerates,Kone Corporation,Europe
+Industrials,Industrial Conglomerates,Atlas Copco,Europe
+Industrials,Industrial Conglomerates,GKN Ltd,Europe
+Industrials,Industrial Conglomerates,Schneider Electric,Europe
+Industrials,Industrial Conglomerates,Alstom,Europe
+Industrials,Industrial Conglomerates,Wärtsilä Corporation,Europe
+Industrials,Industrial Conglomerates,Sandvik AB,Europe
+Industrials,Industrial Conglomerates,Mitsubishi Heavy Industries,Asia
+Industrials,Industrial Conglomerates,Hitachi Ltd.,Asia
+Industrials,Industrial Conglomerates,Toshiba Corporation,Asia
+Industrials,Industrial Conglomerates,Kawasaki Heavy Industries,Asia
+Industrials,Industrial Conglomerates,Hyundai Heavy Industries,Asia
+Industrials,Industrial Conglomerates,Doosan Corporation,Asia
+Industrials,Industrial Conglomerates,Sumitomo Heavy Industries,Asia
+Industrials,Industrial Conglomerates,Komatsu Ltd.,Asia
+Industrials,Industrial Conglomerates,Bharat Heavy Electricals Limited,Asia
+Industrials,Industrial Conglomerates,Larsen & Toubro,Asia
+Industrials,Discrete Manufacturing,Dassault Aviation,France
+Industrials,Discrete Manufacturing,Airbus,France
+Industrials,Discrete Manufacturing,Safran,France
+Industrials,Discrete Manufacturing,Thales,France
+Industrials,Discrete Manufacturing,Renault,France
+Industrials,Discrete Manufacturing,Peugeot,France
+Industrials,Discrete Manufacturing,Michelin,France
+Industrials,Discrete Manufacturing,Schneider Electric,France
+Industrials,Discrete Manufacturing,Legrand,France
+Industrials,Discrete Manufacturing,Alstom,France
+Industrials,Discrete Manufacturing,Valeo,France
+Industrials,Discrete Manufacturing,STMicroelectronics,France
+Industrials,Discrete Manufacturing,Dassault Systèmes,France
+Industrials,Discrete Manufacturing,Nexans,France
+Industrials,Discrete Manufacturing,Faurecia,France
+Industrials,Discrete Manufacturing,General Electric,US
+Industrials,Discrete Manufacturing,Boeing,US
+Industrials,Discrete Manufacturing,Lockheed Martin,US
+Industrials,Discrete Manufacturing,Northrop Grumman,US
+Industrials,Discrete Manufacturing,Raytheon Technologies,US
+Industrials,Discrete Manufacturing,Honeywell,US
+Industrials,Discrete Manufacturing,Ford Motor Company,US
+Industrials,Discrete Manufacturing,General Motors,US
+Industrials,Discrete Manufacturing,Tesla,US
+Industrials,Discrete Manufacturing,Caterpillar,US
+Industrials,Discrete Manufacturing,Deere & Company,US
+Industrials,Discrete Manufacturing,3M,US
+Industrials,Discrete Manufacturing,Intel,US
+Industrials,Discrete Manufacturing,AMD,US
+Industrials,Discrete Manufacturing,Texas Instruments,US
+Industrials,Discrete Manufacturing,Siemens AG,Europe
+Industrials,Discrete Manufacturing,Volkswagen Group,Europe
+Industrials,Discrete Manufacturing,BMW,Europe
+Industrials,Discrete Manufacturing,Daimler AG,Europe
+Industrials,Discrete Manufacturing,Bosch Group,Europe
+Industrials,Discrete Manufacturing,ABB Ltd,Europe
+Industrials,Discrete Manufacturing,Volvo Group,Europe
+Industrials,Discrete Manufacturing,SKF,Europe
+Industrials,Discrete Manufacturing,CNH Industrial,Europe
+Industrials,Discrete Manufacturing,Fiat Chrysler Automobiles,Europe
+Industrials,Discrete Manufacturing,ArcelorMittal,Europe
+Industrials,Discrete Manufacturing,Thyssenkrupp AG,Europe
+Industrials,Discrete Manufacturing,Rolls-Royce Holdings,Europe
+Industrials,Discrete Manufacturing,BAE Systems,Europe
+Industrials,Discrete Manufacturing,Kone Corporation,Europe
+Industrials,Discrete Manufacturing,Toyota Motor Corporation,Asia
+Industrials,Discrete Manufacturing,"Honda Motor Co., Ltd.",Asia
+Industrials,Discrete Manufacturing,Hyundai Motor Company,Asia
+Industrials,Discrete Manufacturing,"Nissan Motor Co., Ltd.",Asia
+Industrials,Discrete Manufacturing,Mitsubishi Heavy Industries,Asia
+Industrials,Discrete Manufacturing,Hitachi Ltd.,Asia
+Industrials,Discrete Manufacturing,Toshiba Corporation,Asia
+Industrials,Discrete Manufacturing,Panasonic Holdings,Asia
+Industrials,Discrete Manufacturing,Samsung Electronics,Asia
+Industrials,Discrete Manufacturing,LG Electronics,Asia
+Industrials,Research & Consulting Services,Capgemini,France
+Industrials,Research & Consulting Services,Sopra Steria,France
+Industrials,Research & Consulting Services,Alten,France
+Industrials,Research & Consulting Services,Altran,France
+Industrials,Research & Consulting Services,Wavestone,France
+Industrials,Research & Consulting Services,Atos,France
+Industrials,Research & Consulting Services,CGI,France
+Industrials,Research & Consulting Services,BearingPoint,France
+Industrials,Research & Consulting Services,Devoteam,France
+Industrials,Research & Consulting Services,Neurones,France
+Industrials,Research & Consulting Services,Gfi Informatique,France
+Industrials,Research & Consulting Services,Akka Technologies,France
+Industrials,Research & Consulting Services,Onepoint,France
+Industrials,Research & Consulting Services,Umanis,France
+Industrials,Research & Consulting Services,Sia Partners,France
+Industrials,Research & Consulting Services,McKinsey & Company,US
+Industrials,Research & Consulting Services,Boston Consulting Group,US
+Industrials,Research & Consulting Services,Bain & Company,US
+Industrials,Research & Consulting Services,Deloitte,US
+Industrials,Research & Consulting Services,Accenture,US
+Industrials,Research & Consulting Services,PwC,US
+Industrials,Research & Consulting Services,EY,US
+Industrials,Research & Consulting Services,KPMG,US
+Industrials,Research & Consulting Services,IBM,US
+Industrials,Research & Consulting Services,Booz Allen Hamilton,US
+Industrials,Research & Consulting Services,Gartner,US
+Industrials,Research & Consulting Services,IQVIA,US
+Industrials,Research & Consulting Services,ZS Associates,US
+Industrials,Research & Consulting Services,LEK Consulting,US
+Industrials,Research & Consulting Services,Oliver Wyman,US
+Industrials,Research & Consulting Services,Roland Berger,Europe
+Industrials,Research & Consulting Services,Capgemini,Europe
+Industrials,Research & Consulting Services,BearingPoint,Europe
+Industrials,Research & Consulting Services,Accenture,Europe
+Industrials,Research & Consulting Services,Deloitte,Europe
+Industrials,Research & Consulting Services,PwC,Europe
+Industrials,Research & Consulting Services,EY,Europe
+Industrials,Research & Consulting Services,KPMG,Europe
+Industrials,Research & Consulting Services,McKinsey & Company,Europe
+Industrials,Research & Consulting Services,Boston Consulting Group,Europe
+Industrials,Research & Consulting Services,Tata Consultancy Services,Asia
+Industrials,Research & Consulting Services,Infosys,Asia
+Industrials,Research & Consulting Services,Wipro,Asia
+Industrials,Research & Consulting Services,Accenture,Asia
+Industrials,Research & Consulting Services,Deloitte,Asia
+Industrials,Research & Consulting Services,PwC,Asia
+Industrials,Research & Consulting Services,EY,Asia
+Industrials,Research & Consulting Services,KPMG,Asia
+Industrials,Research & Consulting Services,McKinsey & Company,Asia
+Industrials,Research & Consulting Services,Boston Consulting Group,Asia
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Groupe Onet,France
+Industrials,Security & Alarm Services,Prosegur,France
+Industrials,Security & Alarm Services,Verisure,France
+Industrials,Security & Alarm Services,G4S,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,Securitas AB,France
+Industrials,Security & Alarm Services,ADT Inc.,US
+Industrials,Security & Alarm Services,Allied Universal,US
+Industrials,Security & Alarm Services,Johnson Controls,US
+Industrials,Security & Alarm Services,Honeywell,US
+Industrials,Security & Alarm Services,Alarm.com,US
+Industrials,Security & Alarm Services,Vector Security,US
+Industrials,Security & Alarm Services,Vivint,US
+Industrials,Security & Alarm Services,Brinks Home,US
+Industrials,Security & Alarm Services,Stanley Security,US
+Industrials,Security & Alarm Services,Tyco Integrated Security,US
+Industrials,Security & Alarm Services,Protection 1,US
+Industrials,Security & Alarm Services,SimpliSafe,US
+Industrials,Security & Alarm Services,CPI Security,US
+Industrials,Security & Alarm Services,Frontpoint,US
+Industrials,Security & Alarm Services,Guardian Protection,US
+Industrials,Security & Alarm Services,Securitas AB,Europe
+Industrials,Security & Alarm Services,G4S,Europe
+Industrials,Security & Alarm Services,Verisure,Europe
+Industrials,Security & Alarm Services,Prosegur,Europe
+Industrials,Security & Alarm Services,Securitas AB,Europe
+Industrials,Security & Alarm Services,G4S,Europe
+Industrials,Security & Alarm Services,Verisure,Europe
+Industrials,Security & Alarm Services,Prosegur,Europe
+Industrials,Security & Alarm Services,Securitas AB,Europe
+Industrials,Security & Alarm Services,G4S,Europe
+Industrials,Security & Alarm Services,Verisure,Europe
+Industrials,Security & Alarm Services,Prosegur,Europe
+Industrials,Security & Alarm Services,Securitas AB,Europe
+Industrials,Security & Alarm Services,G4S,Europe
+Industrials,Security & Alarm Services,Verisure,Europe
+Industrials,Security & Alarm Services,"Secom Co., Ltd.",Asia
+Industrials,Security & Alarm Services,Securitas AB,Asia
+Industrials,Security & Alarm Services,Prosegur,Asia
+Industrials,Security & Alarm Services,ADT Inc.,Asia
+Industrials,Security & Alarm Services,G4S,Asia
+Industrials,Security & Alarm Services,Securitas AB,Asia
+Industrials,Security & Alarm Services,"Secom Co., Ltd.",Asia
+Industrials,Security & Alarm Services,Prosegur,Asia
+Industrials,Security & Alarm Services,ADT Inc.,Asia
+Industrials,Security & Alarm Services,G4S,Asia
+Industrials,Trading Companies & Distributors,Sonepar,France
+Industrials,Trading Companies & Distributors,Rexel,France
+Industrials,Trading Companies & Distributors,Manutan,France
+Industrials,Trading Companies & Distributors,Descours & Cabaud,France
+Industrials,Trading Companies & Distributors,Groupe Socoda,France
+Industrials,Trading Companies & Distributors,Groupe RG,France
+Industrials,Trading Companies & Distributors,Legallais,France
+Industrials,Trading Companies & Distributors,Groupe Samse,France
+Industrials,Trading Companies & Distributors,Groupe Martin Belaysoud,France
+Industrials,Trading Companies & Distributors,Groupe Etanco,France
+Industrials,Trading Companies & Distributors,Groupe Téréva,France
+Industrials,Trading Companies & Distributors,Groupe Frans Bonhomme,France
+Industrials,Trading Companies & Distributors,Groupe PUM,France
+Industrials,Trading Companies & Distributors,Groupe Richardson,France
+Industrials,Trading Companies & Distributors,Groupe Brossette,France
+Industrials,Trading Companies & Distributors,W.W. Grainger,US
+Industrials,Trading Companies & Distributors,Fastenal,US
+Industrials,Trading Companies & Distributors,HD Supply,US
+Industrials,Trading Companies & Distributors,MSC Industrial Direct,US
+Industrials,Trading Companies & Distributors,Applied Industrial Technologies,US
+Industrials,Trading Companies & Distributors,Motion Industries,US
+Industrials,Trading Companies & Distributors,Ferguson Enterprises,US
+Industrials,Trading Companies & Distributors,Avnet,US
+Industrials,Trading Companies & Distributors,Arrow Electronics,US
+Industrials,Trading Companies & Distributors,McKesson Corporation,US
+Industrials,Trading Companies & Distributors,Cardinal Health,US
+Industrials,Trading Companies & Distributors,Henry Schein,US
+Industrials,Trading Companies & Distributors,Sysco Corporation,US
+Industrials,Trading Companies & Distributors,United Natural Foods,US
+Industrials,Trading Companies & Distributors,Ingram Micro,US
+Industrials,Trading Companies & Distributors,Würth Group,Europe
+Industrials,Trading Companies & Distributors,Ferguson plc,Europe
+Industrials,Trading Companies & Distributors,IMCD Group,Europe
+Industrials,Trading Companies & Distributors,Bunzl plc,Europe
+Industrials,Trading Companies & Distributors,Electrocomponents plc,Europe
+Industrials,Trading Companies & Distributors,Rexel,Europe
+Industrials,Trading Companies & Distributors,Sonepar,Europe
+Industrials,Trading Companies & Distributors,Brammer,Europe
+Industrials,Trading Companies & Distributors,Rubix Group,Europe
+Industrials,Trading Companies & Distributors,DCC plc,Europe
+Industrials,Trading Companies & Distributors,Mitsubishi Corporation,Asia
+Industrials,Trading Companies & Distributors,Itochu Corporation,Asia
+Industrials,Trading Companies & Distributors,Sumitomo Corporation,Asia
+Industrials,Trading Companies & Distributors,Marubeni Corporation,Asia
+Industrials,Trading Companies & Distributors,Toyota Tsusho Corporation,Asia
+Industrials,Trading Companies & Distributors,Sojitz Corporation,Asia
+Industrials,Trading Companies & Distributors,"Mitsui & Co., Ltd.",Asia
+Industrials,Trading Companies & Distributors,LG International Corp.,Asia
+Industrials,Trading Companies & Distributors,Samsung C&T Corporation,Asia
+Industrials,Trading Companies & Distributors,Sinochem International,Asia
+Industrials,Transportation,SNCF,France
+Industrials,Transportation,SNCF,France
+Industrials,Transportation,SNCF,France
+Industrials,Transportation,SNCF,France
+Industrials,Transportation,Transdev,France
+Industrials,Transportation,CMA CGM,France
+Industrials,Transportation,Air France-KLM,France
+Industrials,Transportation,RATP Group,France
+Industrials,Transportation,Bolloré Logistics,France
+Industrials,Transportation,STEF,France
+Industrials,Transportation,ID Logistics,France
+Industrials,Transportation,Norbert Dentressangle,France
+Industrials,Transportation,TGV Lyria,France
+Industrials,Transportation,Corsair International,France
+Industrials,Transportation,Brittany Ferries,France
+Industrials,Transportation,Union Pacific,US
+Industrials,Transportation,BNSF Railway,US
+Industrials,Transportation,FedEx,US
+Industrials,Transportation,FedEx,US
+Industrials,Transportation,UPS,US
+Industrials,Transportation,UPS,US
+Industrials,Transportation,J.B. Hunt,US
+Industrials,Transportation,XPO Logistics,US
+Industrials,Transportation,Knight-Swift,US
+Industrials,Transportation,Schneider National,US
+Industrials,Transportation,CSX Corporation,US
+Industrials,Transportation,Norfolk Southern,US
+Industrials,Transportation,American Airlines,US
+Industrials,Transportation,Delta Air Lines,US
+Industrials,Transportation,United Airlines,US
+Industrials,Transportation,Deutsche Bahn,Europe
+Industrials,Transportation,Deutsche Bahn,Europe
+Industrials,Transportation,DSV,Europe
+Industrials,Transportation,DSV,Europe
+Industrials,Transportation,Kuehne + Nagel,Europe
+Industrials,Transportation,Maersk,Europe
+Industrials,Transportation,Hapag-Lloyd,Europe
+Industrials,Transportation,Lufthansa Cargo,Europe
+Industrials,Transportation,Swiss International Air Lines,Europe
+Industrials,Transportation,Finnair Cargo,Europe
+Industrials,Transportation,Stena Line,Europe
+Industrials,Transportation,DFDS,Europe
+Industrials,Transportation,PKP Cargo,Europe
+Industrials,Transportation,Trenitalia,Europe
+Industrials,Transportation,National Express,Europe
+Industrials,Transportation,China COSCO Shipping,Asia
+Industrials,Transportation,China Railway,Asia
+Industrials,Transportation,Nippon Express,Asia
+Industrials,Transportation,Yamato Holdings,Asia
+Industrials,Transportation,Singapore Airlines,Asia
+Industrials,Transportation,Cathay Pacific,Asia
+Industrials,Transportation,Korean Air,Asia
+Industrials,Transportation,ANA Holdings,Asia
+Industrials,Transportation,Evergreen Marine,Asia
+Industrials,Transportation,Mitsui O.S.K. Lines,Asia
+Industrials,Chemicals,Air Liquide,France
+Industrials,Chemicals,Arkema,France
+Industrials,Chemicals,Solvay,France
+Industrials,Chemicals,TotalEnergies,France
+Industrials,Chemicals,BASF,France
+Industrials,Chemicals,INEOS,France
+Industrials,Chemicals,L’Oréal,France
+Industrials,Chemicals,PCAS,France
+Industrials,Chemicals,Robertet,France
+Industrials,Chemicals,Baikowski,France
+Industrials,Chemicals,SNF Group,France
+Industrials,Chemicals,Kem One,France
+Industrials,Chemicals,Adisseo,France
+Industrials,Chemicals,Novacap,France
+Industrials,Chemicals,Seqens,France
+Industrials,Chemicals,Dow,US
+Industrials,Chemicals,ExxonMobil,US
+Industrials,Chemicals,LyondellBasell,US
+Industrials,Chemicals,DuPont,US
+Industrials,Chemicals,Air Products,US
+Industrials,Chemicals,Eastman Chemical,US
+Industrials,Chemicals,Celanese,US
+Industrials,Chemicals,Westlake Chemical,US
+Industrials,Chemicals,Huntsman,US
+Industrials,Chemicals,Albemarle,US
+Industrials,Chemicals,Ashland,US
+Industrials,Chemicals,FMC Corporation,US
+Industrials,Chemicals,Chemours,US
+Industrials,Chemicals,Olin Corporation,US
+Industrials,Chemicals,PPG Industries,US
+Industrials,Chemicals,BASF,Germany
+Industrials,Chemicals,Evonik,Germany
+Industrials,Chemicals,INEOS,UK
+Industrials,Chemicals,AkzoNobel,Netherlands
+Industrials,Chemicals,Covestro,Germany
+Industrials,Chemicals,Solvay,Belgium
+Industrials,Chemicals,Clariant,Switzerland
+Industrials,Chemicals,Lanxess,Germany
+Industrials,Chemicals,Johnson Matthey,UK
+Industrials,Chemicals,Wacker Chemie,Germany
+Industrials,Chemicals,Sinopec,China
+Industrials,Chemicals,PetroChina,China
+Industrials,Chemicals,Mitsubishi Chemical,Japan
+Industrials,Chemicals,Mitsui Chemicals,Japan
+Industrials,Chemicals,Sumitomo Chemical,Japan
+Industrials,Chemicals,LG Chem,South Korea
+Industrials,Chemicals,Lotte Chemical,South Korea
+Industrials,Chemicals,Formosa Plastics,Taiwan
+Industrials,Chemicals,Reliance Industries,India
+Industrials,Chemicals,Tata Chemicals,India
+Industrials,Steel,ArcelorMittal,France
+Industrials,Steel,Aperam,France
+Industrials,Steel,Vallourec,France
+Industrials,Steel,Ascometal,France
+Industrials,Steel,Riva Group,France
+Industrials,Steel,Industeel,France
+Industrials,Steel,Celsa Group,France
+Industrials,Steel,Jacquet Metals,France
+Industrials,Steel,LME,France
+Industrials,Steel,Eramet,France
+Industrials,Steel,Nucor Corporation,US
+Industrials,Steel,Cleveland-Cliffs,US
+Industrials,Steel,United States Steel,US
+Industrials,Steel,Steel Dynamics,US
+Industrials,Steel,Commercial Metals,US
+Industrials,Steel,Reliance Steel,US
+Industrials,Steel,TimkenSteel,US
+Industrials,Steel,Gerdau,US
+Industrials,Steel,AK Steel,US
+Industrials,Steel,NLMK USA,US
+Industrials,Steel,ArcelorMittal,Luxembourg
+Industrials,Steel,thyssenkrupp,Germany
+Industrials,Steel,Salzgitter AG,Germany
+Industrials,Steel,Outokumpu,Finland
+Industrials,Steel,SSAB,Sweden
+Industrials,Steel,Tata Steel Europe,Netherlands
+Industrials,Steel,NLMK Group,Russia
+Industrials,Steel,Marcegaglia,Italy
+Industrials,Steel,voestalpine,Austria
+Industrials,Steel,Liberty Steel,UK
+Industrials,Steel,China Baowu Steel,China
+Industrials,Steel,HBIS Group,China
+Industrials,Steel,Ansteel Group,China
+Industrials,Steel,Shagang Group,China
+Industrials,Steel,Nippon Steel,Japan
+Industrials,Steel,JFE Holdings,Japan
+Industrials,Steel,POSCO,South Korea
+Information Technology,Communications Equipment,Thales Group,France
+Information Technology,Communications Equipment,Alcatel Submarine Networks (ASN),France
+Information Technology,Communications Equipment,Orange S.A.,France
+Information Technology,Communications Equipment,Sagemcom,France
+Information Technology,Communications Equipment,Airbus Defence and Space,France
+Information Technology,Communications Equipment,Nexans,France
+Information Technology,Communications Equipment,Schneider Electric,France
+Information Technology,Communications Equipment,Alcatel-Lucent Enterprise,France
+Information Technology,Communications Equipment,Ekinops,France
+Information Technology,Communications Equipment,Acome,France
+Information Technology,Communications Equipment,"Cisco Systems, Inc.",US
+Information Technology,Communications Equipment,Motorola Solutions,US
+Information Technology,Communications Equipment,Hewlett Packard Enterprise,US
+Information Technology,Communications Equipment,Ubiquiti Inc.,US
+Information Technology,Communications Equipment,Zebra Technologies,US
+Information Technology,Communications Equipment,Ciena Corporation,US
+Information Technology,Communications Equipment,Juniper Networks,US
+Information Technology,Communications Equipment,L3Harris Technologies,US
+Information Technology,Communications Equipment,CommScope Holding,US
+Information Technology,Communications Equipment,"NETGEAR, Inc.",US
+Information Technology,Communications Equipment,Ericsson,Sweden
+Information Technology,Communications Equipment,Nokia Corporation,Finland
+Information Technology,Communications Equipment,Siemens AG,Germany
+Information Technology,Communications Equipment,BT Group,UK
+Information Technology,Communications Equipment,Philips,Netherlands
+Information Technology,Communications Equipment,Telefónica,Spain
+Information Technology,Communications Equipment,Leonardo S.p.A.,Italy
+Information Technology,Communications Equipment,ABB Ltd.,Switzerland
+Information Technology,Communications Equipment,Frequentis AG,Austria
+Information Technology,Communications Equipment,Barco,Belgium
+Information Technology,Communications Equipment,Huawei Technologies,China
+Information Technology,Communications Equipment,ZTE Corporation,China
+Information Technology,Communications Equipment,NEC Corporation,Japan
+Information Technology,Communications Equipment,Fujitsu Limited,Japan
+Information Technology,Communications Equipment,Samsung Electronics,South Korea
+Information Technology,Communications Equipment,LG Electronics,South Korea
+Information Technology,Communications Equipment,MediaTek Inc.,Taiwan
+Information Technology,Communications Equipment,Bharti Airtel,India
+Information Technology,Communications Equipment,Singtel,Singapore
+Information Technology,Communications Equipment,Maxis Berhad,Malaysia
+Information Technology,"Electronic Equipment, Instruments & Components",Schneider Electric,France
+Information Technology,"Electronic Equipment, Instruments & Components",Safran Electronics & Defense,France
+Information Technology,"Electronic Equipment, Instruments & Components",Exxelia Group,France
+Information Technology,"Electronic Equipment, Instruments & Components",Wurth Elektronik,France
+Information Technology,"Electronic Equipment, Instruments & Components",Matra Électronique,France
+Information Technology,"Electronic Equipment, Instruments & Components",Éolane,France
+Information Technology,"Electronic Equipment, Instruments & Components",Lacroix Electronics,France
+Information Technology,"Electronic Equipment, Instruments & Components",Asteelflash,France
+Information Technology,"Electronic Equipment, Instruments & Components",Farnell,France
+Information Technology,"Electronic Equipment, Instruments & Components",Alantys Technology,France
+Information Technology,"Electronic Equipment, Instruments & Components",Amphenol Corporation,US
+Information Technology,"Electronic Equipment, Instruments & Components",Dolby Laboratories,US
+Information Technology,"Electronic Equipment, Instruments & Components",Hubbell Incorporated,US
+Information Technology,"Electronic Equipment, Instruments & Components",Acuity Brands,US
+Information Technology,"Electronic Equipment, Instruments & Components",AMETEK,US
+Information Technology,"Electronic Equipment, Instruments & Components",CTS Corporation,US
+Information Technology,"Electronic Equipment, Instruments & Components",MKS Instruments,US
+Information Technology,"Electronic Equipment, Instruments & Components",National Instruments,US
+Information Technology,"Electronic Equipment, Instruments & Components",TE Connectivity,US
+Information Technology,"Electronic Equipment, Instruments & Components",Molex,US
+Information Technology,"Electronic Equipment, Instruments & Components",Infineon Technologies,Germany
+Information Technology,"Electronic Equipment, Instruments & Components",BMK Group,Germany
+Information Technology,"Electronic Equipment, Instruments & Components",Tonfunk Group,Germany
+Information Technology,"Electronic Equipment, Instruments & Components",Wurth Elektronik,Germany
+Information Technology,"Electronic Equipment, Instruments & Components",Asteelflash,Germany
+Information Technology,"Electronic Equipment, Instruments & Components",TT Electronics,UK
+Information Technology,"Electronic Equipment, Instruments & Components",Laird,UK
+Information Technology,"Electronic Equipment, Instruments & Components",TE Connectivity,Switzerland
+Information Technology,"Electronic Equipment, Instruments & Components",NXP Semiconductors,Netherlands
+Information Technology,"Electronic Equipment, Instruments & Components",Olivetti,Italy
+Information Technology,"Electronic Equipment, Instruments & Components",Kyocera Corporation,Japan
+Information Technology,"Electronic Equipment, Instruments & Components",TDK Corporation,Japan
+Information Technology,"Electronic Equipment, Instruments & Components",Murata Manufacturing,Japan
+Information Technology,"Electronic Equipment, Instruments & Components",Rohm Semiconductor,Japan
+Information Technology,"Electronic Equipment, Instruments & Components",Omron Corporation,Japan
+Information Technology,"Electronic Equipment, Instruments & Components",Samsung Electronics,South Korea
+Information Technology,"Electronic Equipment, Instruments & Components",LG Electronics,South Korea
+Information Technology,"Electronic Equipment, Instruments & Components",Hon Hai Precision Industry (Foxconn),Taiwan
+Information Technology,"Electronic Equipment, Instruments & Components",Huawei Technologies,China
+Information Technology,"Electronic Equipment, Instruments & Components",ZTE Corporation,China
+Information Technology,IT Services,Capgemini,France
+Information Technology,IT Services,Sopra Steria,France
+Information Technology,IT Services,Atos,France
+Information Technology,IT Services,Devoteam,France
+Information Technology,IT Services,Alten,France
+Information Technology,IT Services,Orange Business Services,France
+Information Technology,IT Services,Gfi Informatique,France
+Information Technology,IT Services,Econocom,France
+Information Technology,IT Services,CGI,France
+Information Technology,IT Services,Adista,France
+Information Technology,IT Services,Accenture,US
+Information Technology,IT Services,IBM,US
+Information Technology,IT Services,Cognizant,US
+Information Technology,IT Services,DXC Technology,US
+Information Technology,IT Services,Infosys,US
+Information Technology,IT Services,Wipro,US
+Information Technology,IT Services,HCL Technologies,US
+Information Technology,IT Services,Tata Consultancy Services,US
+Information Technology,IT Services,Capgemini,US
+Information Technology,IT Services,EPAM Systems,US
+Information Technology,IT Services,Capita,UK
+Information Technology,IT Services,T-Systems,Germany
+Information Technology,IT Services,Ordina,Netherlands
+Information Technology,IT Services,Swisscom,Switzerland
+Information Technology,IT Services,Indra Sistemas,Spain
+Information Technology,IT Services,Reply,Italy
+Information Technology,IT Services,Bechtle,Germany
+Information Technology,IT Services,Computacenter,UK
+Information Technology,IT Services,TietoEVRY,Sweden
+Information Technology,IT Services,CGI,Finland
+Information Technology,IT Services,Tata Consultancy Services,India
+Information Technology,IT Services,Infosys,India
+Information Technology,IT Services,Wipro,India
+Information Technology,IT Services,HCL Technologies,India
+Information Technology,IT Services,Tech Mahindra,India
+Information Technology,IT Services,Huawei,China
+Information Technology,IT Services,Fujitsu,Japan
+Information Technology,IT Services,NEC Corporation,Japan
+Information Technology,IT Services,Samsung SDS,South Korea
+Information Technology,IT Services,FPT Software,Vietnam
+Information Technology,Software,Dassault Systèmes,France
+Information Technology,Software,Cegid,France
+Information Technology,Software,Sopra Steria,France
+Information Technology,Software,Murex,France
+Information Technology,Software,Ivalua,France
+Information Technology,Software,Talend,France
+Information Technology,Software,Axway,France
+Information Technology,Software,Kyriba,France
+Information Technology,Software,ESI Group,France
+Information Technology,Software,Mirakl,France
+Information Technology,Software,OVHcloud,France
+Information Technology,Software,OpenText,France
+Information Technology,Software,Berger-Levrault,France
+Information Technology,Software,Berger-Levrault,France
+Information Technology,Software,Berger-Levrault,France
+Information Technology,Software,Microsoft,US
+Information Technology,Software,Oracle,US
+Information Technology,Software,Salesforce,US
+Information Technology,Software,Adobe,US
+Information Technology,Software,Intuit,US
+Information Technology,Software,ServiceNow,US
+Information Technology,Software,Workday,US
+Information Technology,Software,Palantir,US
+Information Technology,Software,Atlassian,US
+Information Technology,Software,Zoom Video,US
+Information Technology,Software,Snowflake,US
+Information Technology,Software,MongoDB,US
+Information Technology,Software,Splunk,US
+Information Technology,Software,SAP,Germany
+Information Technology,Software,Sage Group,UK
+Information Technology,Software,Micro Focus,UK
+Information Technology,Software,Software AG,Germany
+Information Technology,Software,Temenos,Switzerland
+Information Technology,Software,IFS,Sweden
+Information Technology,Software,Avast,UK
+Information Technology,Software,TeamViewer,Germany
+Information Technology,Software,Sophos,UK
+Information Technology,Software,Unit4,Netherlands
+Information Technology,Software,Fujitsu,Japan
+Information Technology,Software,NEC Corporation,Japan
+Information Technology,Software,Huawei,China
+Information Technology,Software,Tencent,China
+Information Technology,Software,Alibaba,China
+Information Technology,Software,Infosys,India
+Information Technology,Software,Tata Consultancy Services,India
+Information Technology,Software,Samsung SDS,South Korea
+Information Technology,Software,Zoho Corporation,India
+Information Technology,Software,Freshworks,India
+Information Technology,"Technology Hardware, Storage & Peripherals",Bull SAS,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Archos,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Parrot,France
+Information Technology,"Technology Hardware, Storage & Peripherals",LDLC Group,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Thomson Computing,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Lexibook,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Qarnot Computing,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Withings,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Sagemcom,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Wiko,France
+Information Technology,"Technology Hardware, Storage & Peripherals",Apple Inc.,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Dell Technologies,US
+Information Technology,"Technology Hardware, Storage & Peripherals",HP Inc.,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Hewlett Packard Enterprise,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Seagate Technology,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Western Digital,US
+Information Technology,"Technology Hardware, Storage & Peripherals",NetApp,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Pure Storage,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Supermicro,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Corsair Gaming,US
+Information Technology,"Technology Hardware, Storage & Peripherals",Siemens AG,Germany
+Information Technology,"Technology Hardware, Storage & Peripherals",Raspberry Pi Ltd,UK
+Information Technology,"Technology Hardware, Storage & Peripherals",Logitech,Switzerland
+Information Technology,"Technology Hardware, Storage & Peripherals",Philips,Netherlands
+Information Technology,"Technology Hardware, Storage & Peripherals",Ericsson,Sweden
+Information Technology,"Technology Hardware, Storage & Peripherals",Nokia,Finland
+Information Technology,"Technology Hardware, Storage & Peripherals",Fujitsu Technology,Germany
+Information Technology,"Technology Hardware, Storage & Peripherals",Dyson Ltd,UK
+Information Technology,"Technology Hardware, Storage & Peripherals",Olivetti,Italy
+Information Technology,"Technology Hardware, Storage & Peripherals",BQ,Spain
+Information Technology,"Technology Hardware, Storage & Peripherals",Lenovo Group,China
+Information Technology,"Technology Hardware, Storage & Peripherals",Huawei Technologies,China
+Information Technology,"Technology Hardware, Storage & Peripherals",Xiaomi Corporation,China
+Information Technology,"Technology Hardware, Storage & Peripherals",Samsung Electronics,South Korea
+Information Technology,"Technology Hardware, Storage & Peripherals",LG Electronics,South Korea
+Information Technology,"Technology Hardware, Storage & Peripherals",Sony Corporation,Japan
+Information Technology,"Technology Hardware, Storage & Peripherals",Toshiba Corporation,Japan
+Information Technology,"Technology Hardware, Storage & Peripherals",Acer Inc.,Taiwan
+Information Technology,"Technology Hardware, Storage & Peripherals",ASUS,Taiwan
+Information Technology,"Technology Hardware, Storage & Peripherals",HCL Technologies,India
+Information Technology,Semiconductors,STMicroelectronics,France
+Information Technology,Semiconductors,Soitec,France
+Information Technology,Semiconductors,Riber,France
+Information Technology,Semiconductors,Sequans Communications,France
+Information Technology,Semiconductors,MEMSCAP,France
+Information Technology,Semiconductors,CEA-Leti,France
+Information Technology,Semiconductors,Kalray,France
+Information Technology,Semiconductors,Dolphin Integration,France
+Information Technology,Semiconductors,Presto Engineering,France
+Information Technology,Semiconductors,SilMach,France
+Information Technology,Semiconductors,Aniah,France
+Information Technology,Semiconductors,Cortus SAS,France
+Information Technology,Semiconductors,Scalinx,France
+Information Technology,Semiconductors,Synergie-Cad,France
+Information Technology,Semiconductors,Scaleo chip,France
+Information Technology,Semiconductors,Intel,US
+Information Technology,Semiconductors,Intel,US
+Information Technology,Semiconductors,Intel,US
+Information Technology,Semiconductors,NVIDIA,US
+Information Technology,Semiconductors,NVIDIA,US
+Information Technology,Semiconductors,AMD,US
+Information Technology,Semiconductors,AMD,US
+Information Technology,Semiconductors,Qualcomm,US
+Information Technology,Semiconductors,Broadcom,US
+Information Technology,Semiconductors,Broadcom,US
+Information Technology,Semiconductors,Micron Technology,US
+Information Technology,Semiconductors,Texas Instruments,US
+Information Technology,Semiconductors,Analog Devices,US
+Information Technology,Semiconductors,Analog Devices,US
+Information Technology,Semiconductors,Marvell Technology,US
+Information Technology,Semiconductors,GlobalFoundries,US
+Information Technology,Semiconductors,ON Semiconductor,US
+Information Technology,Semiconductors,Lattice Semiconductor,US
+Information Technology,Semiconductors,ASML,Europe
+Information Technology,Semiconductors,NXP Semiconductors,Europe
+Information Technology,Semiconductors,Infineon Technologies,Europe
+Information Technology,Semiconductors,Melexis,Europe
+Information Technology,Semiconductors,Dialog Semiconductor,Europe
+Information Technology,Semiconductors,ams OSRAM,Europe
+Information Technology,Semiconductors,Nordic Semiconductor,Europe
+Information Technology,Semiconductors,X-FAB,Europe
+Information Technology,Semiconductors,ARM Holdings,Europe
+Information Technology,Semiconductors,CEA-Leti,Europe
+Information Technology,Semiconductors,Imagination Technologies,Europe
+Information Technology,Semiconductors,TSMC,Asia
+Information Technology,Semiconductors,Samsung Electronics,Asia
+Information Technology,Semiconductors,SK hynix,Asia
+Information Technology,Semiconductors,MediaTek,Asia
+Information Technology,Semiconductors,SMIC,Asia
+Information Technology,Semiconductors,UMC,Asia
+Information Technology,Semiconductors,Toshiba,Asia
+Information Technology,Semiconductors,Renesas Electronics,Asia
+Information Technology,Semiconductors,Sony Semiconductor Solutions,Asia
+Information Technology,Semiconductors,Rohm Semiconductor,Asia
+Financial Services,"PE, VC, & Family Offices",Ardian,France
+Financial Services,"PE, VC, & Family Offices",Eurazeo,France
+Financial Services,"PE, VC, & Family Offices",PAI Partners,France
+Financial Services,"PE, VC, & Family Offices",Partech,France
+Financial Services,"PE, VC, & Family Offices",Capza,France
+Financial Services,"PE, VC, & Family Offices",Omnes Capital,France
+Financial Services,"PE, VC, & Family Offices",Cathay Capital,France
+Financial Services,"PE, VC, & Family Offices",Idinvest Partners,France
+Financial Services,"PE, VC, & Family Offices",Serena Capital,France
+Financial Services,"PE, VC, & Family Offices",Alven Capital,France
+Financial Services,"PE, VC, & Family Offices",Sofinnova Partners,France
+Financial Services,"PE, VC, & Family Offices",Astorg,France
+Financial Services,"PE, VC, & Family Offices",Apax Partners,France
+Financial Services,"PE, VC, & Family Offices",ISAI,France
+Financial Services,"PE, VC, & Family Offices",Keensight Capital,France
+Financial Services,"PE, VC, & Family Offices",Y Combinator,US
+Financial Services,"PE, VC, & Family Offices",Blackstone,US
+Financial Services,"PE, VC, & Family Offices",KKR,US
+Financial Services,"PE, VC, & Family Offices",The Carlyle Group,US
+Financial Services,"PE, VC, & Family Offices",TPG,US
+Financial Services,"PE, VC, & Family Offices",Bain Capital,US
+Financial Services,"PE, VC, & Family Offices",Warburg Pincus,US
+Financial Services,"PE, VC, & Family Offices",Apollo Global Management,US
+Financial Services,"PE, VC, & Family Offices",Vista Equity Partners,US
+Financial Services,"PE, VC, & Family Offices",Silver Lake Partners,US
+Financial Services,"PE, VC, & Family Offices",Andreessen Horowitz,US
+Financial Services,"PE, VC, & Family Offices",Sequoia Capital,US
+Financial Services,"PE, VC, & Family Offices",Accel,US
+Financial Services,"PE, VC, & Family Offices",Kleiner Perkins,US
+Financial Services,"PE, VC, & Family Offices",New Enterprise Associates,US
+Financial Services,"PE, VC, & Family Offices",Insight Partners,US
+Financial Services,"PE, VC, & Family Offices",Union Square Ventures,US
+Financial Services,"PE, VC, & Family Offices",Cascade Investment,US
+Financial Services,"PE, VC, & Family Offices",Walton Enterprises,US
+Financial Services,"PE, VC, & Family Offices",Bezos Expeditions,US
+Financial Services,"PE, VC, & Family Offices",Emerson Collective,US
+Financial Services,"PE, VC, & Family Offices",Soros Fund Management,US
+Financial Services,"PE, VC, & Family Offices",EQT Partners,Europe
+Financial Services,"PE, VC, & Family Offices",CVC Capital Partners,Europe
+Financial Services,"PE, VC, & Family Offices",Permira,Europe
+Financial Services,"PE, VC, & Family Offices",Apax Partners LLP,Europe
+Financial Services,"PE, VC, & Family Offices",Hg Capital,Europe
+Financial Services,"PE, VC, & Family Offices",Index Ventures,Europe
+Financial Services,"PE, VC, & Family Offices",Atomico,Europe
+Financial Services,"PE, VC, & Family Offices",Balderton Capital,Europe
+Financial Services,"PE, VC, & Family Offices",Lakestar,Europe
+Financial Services,"PE, VC, & Family Offices",Sofina,Europe
+Financial Services,"PE, VC, & Family Offices",Kinnevik AB,Europe
+Financial Services,"PE, VC, & Family Offices",Wendel,Europe
+Financial Services,"PE, VC, & Family Offices",Schroder Adveq,Europe
+Financial Services,"PE, VC, & Family Offices",Partners Group,Europe
+Financial Services,"PE, VC, & Family Offices",Temasek Holdings,Asia
+Financial Services,"PE, VC, & Family Offices",SoftBank Group,Asia
+Financial Services,"PE, VC, & Family Offices",Hillhouse Capital,Asia
+Financial Services,"PE, VC, & Family Offices",Sequoia Capital China,Asia
+Financial Services,"PE, VC, & Family Offices",GIC Private Limited,Asia
+Financial Services,"PE, VC, & Family Offices",China Investment Corporation,Asia
+Financial Services,"PE, VC, & Family Offices",SBI Holdings,Asia
+Financial Services,"PE, VC, & Family Offices",Nomura Holdings,Asia
+Financial Services,"PE, VC, & Family Offices",Legend Capital,Asia
+Financial Services,"PE, VC, & Family Offices",IDG Capital,Asia
+Insurance,P&C Insurance,AXA,France
+Insurance,P&C Insurance,AXA,France
+Insurance,P&C Insurance,Groupama,France
+Insurance,P&C Insurance,Covéa,France
+Insurance,P&C Insurance,Covéa,France
+Insurance,P&C Insurance,Covéa,France
+Insurance,P&C Insurance,Crédit Agricole Assurances,France
+Insurance,P&C Insurance,Macif,France
+Insurance,P&C Insurance,Matmut,France
+Insurance,P&C Insurance,Allianz,France
+Insurance,P&C Insurance,Generali,France
+Insurance,P&C Insurance,Aviva,France
+Insurance,P&C Insurance,MAIF,France
+Insurance,P&C Insurance,Swiss Life,France
+Insurance,P&C Insurance,La Banque Postale,France
+Insurance,P&C Insurance,BNP Paribas Cardif,France
+Insurance,P&C Insurance,Société Générale,France
+Insurance,P&C Insurance,Crédit Mutuel,France
+Insurance,P&C Insurance,Axa,France
+Insurance,P&C Insurance,Allianz,France
+Insurance,P&C Insurance,State Farm,US
+Insurance,P&C Insurance,Berkshire Hathaway,US
+Insurance,P&C Insurance,Progressive,US
+Insurance,P&C Insurance,Allstate,US
+Insurance,P&C Insurance,Liberty Mutual,US
+Insurance,P&C Insurance,Travelers,US
+Insurance,P&C Insurance,Nationwide,US
+Insurance,P&C Insurance,USAA,US
+Insurance,P&C Insurance,Chubb,US
+Insurance,P&C Insurance,American Family,US
+Insurance,P&C Insurance,Farmers Insurance,US
+Insurance,P&C Insurance,CNA Financial,US
+Insurance,P&C Insurance,Hartford,US
+Insurance,P&C Insurance,AIG,US
+Insurance,P&C Insurance,Zurich,US
+Insurance,P&C Insurance,MetLife,US
+Insurance,P&C Insurance,Assurant,US
+Insurance,P&C Insurance,Markel,US
+Insurance,P&C Insurance,AmTrust,US
+Insurance,P&C Insurance,Allianz,Europe
+Insurance,P&C Insurance,Zurich Insurance Group,Europe
+Insurance,P&C Insurance,Generali,Europe
+Insurance,P&C Insurance,Aviva,Europe
+Insurance,P&C Insurance,AXA,Europe
+Insurance,P&C Insurance,Mapfre,Europe
+Insurance,P&C Insurance,RSA Insurance Group,Europe
+Insurance,P&C Insurance,Baloise,Europe
+Insurance,P&C Insurance,Tryg,Europe
+Insurance,P&C Insurance,Gjensidige,Europe
+Insurance,P&C Insurance,Sampo Group,Europe
+Insurance,P&C Insurance,Direct Line Group,Europe
+Insurance,P&C Insurance,Admiral Group,Europe
+Insurance,P&C Insurance,Ageas,Europe
+Insurance,P&C Insurance,Helvetia,Europe
+Insurance,P&C Insurance,,
+Insurance,Life and Protection Insurance,Crédit Agricole Assurances,France
+Insurance,Life and Protection Insurance,AXA,France
+Insurance,Life and Protection Insurance,CNP Assurances,France
+Insurance,Life and Protection Insurance,BNP Paribas Cardif,France
+Insurance,Life and Protection Insurance,Generali,France
+Insurance,Life and Protection Insurance,BPCE Assurances,France
+Insurance,Life and Protection Insurance,Société Générale,France
+Insurance,Life and Protection Insurance,Swiss Life,France
+Insurance,Life and Protection Insurance,Aviva,France
+Insurance,Life and Protection Insurance,Allianz,France
+Insurance,Life and Protection Insurance,La Banque Postale,France
+Insurance,Life and Protection Insurance,Mutuelle Générale,France
+Insurance,Life and Protection Insurance,AG2R La Mondiale,France
+Insurance,Life and Protection Insurance,MGEN,France
+Insurance,Life and Protection Insurance,MACSF,France
+Insurance,Life and Protection Insurance,Malakoff Humanis,France
+Insurance,Life and Protection Insurance,Groupama,France
+Insurance,Life and Protection Insurance,MAIF,France
+Insurance,Life and Protection Insurance,Matmut,France
+Insurance,Life and Protection Insurance,Crédit Mutuel,France
+Insurance,Life and Protection Insurance,Northwestern Mutual,US
+Insurance,Life and Protection Insurance,New York Life,US
+Insurance,Life and Protection Insurance,MetLife,US
+Insurance,Life and Protection Insurance,Prudential Financial,US
+Insurance,Life and Protection Insurance,MassMutual,US
+Insurance,Life and Protection Insurance,Lincoln Financial,US
+Insurance,Life and Protection Insurance,State Farm,US
+Insurance,Life and Protection Insurance,Nationwide,US
+Insurance,Life and Protection Insurance,Guardian Life,US
+Insurance,Life and Protection Insurance,Transamerica,US
+Insurance,Life and Protection Insurance,AIG,US
+Insurance,Life and Protection Insurance,Principal Financial,US
+Insurance,Life and Protection Insurance,Pacific Life,US
+Insurance,Life and Protection Insurance,Voya Financial,US
+Insurance,Life and Protection Insurance,Mutual of Omaha,US
+Insurance,Life and Protection Insurance,Equitable Holdings,US
+Insurance,Life and Protection Insurance,Brighthouse Financial,US
+Insurance,Life and Protection Insurance,John Hancock,US
+Insurance,Life and Protection Insurance,Protective Life,US
+Insurance,Life and Protection Insurance,Globe Life,US
+Insurance,Life and Protection Insurance,American National,US
+Insurance,Life and Protection Insurance,Allianz,Europe
+Insurance,Life and Protection Insurance,Zurich Insurance Group,Europe
+Insurance,Life and Protection Insurance,Generali,Europe
+Insurance,Life and Protection Insurance,Aviva,Europe
+Insurance,Life and Protection Insurance,Aegon,Europe
+Insurance,Life and Protection Insurance,Legal & General,Europe
+Insurance,Life and Protection Insurance,Swiss Life,Europe
+Insurance,Life and Protection Insurance,NN Group,Europe
+Insurance,Life and Protection Insurance,Baloise,Europe
+Insurance,Life and Protection Insurance,Unipol,Europe
+Insurance,Life and Protection Insurance,Achmea,Europe
+Insurance,Life and Protection Insurance,Mapfre,Europe
+Insurance,Life and Protection Insurance,CNP Assurances,Europe
+Insurance,Life and Protection Insurance,AXA,Europe
+Insurance,Life and Protection Insurance,Munich Re,Europe
+Insurance,Life and Protection Insurance,HDI Group,Europe
+Insurance,Life and Protection Insurance,SCOR,Europe
+Insurance,Life and Protection Insurance,China Life Insurance,Asia
+Insurance,Life and Protection Insurance,Ping An Insurance,Asia
+Insurance,Life and Protection Insurance,Nippon Life,Asia
+Insurance,Life and Protection Insurance,Dai-ichi Life,Asia
+Insurance,Life and Protection Insurance,Meiji Yasuda Life,Asia
+Insurance,Life and Protection Insurance,Sumitomo Life,Asia
+Insurance,Life and Protection Insurance,Samsung Life,Asia
+Insurance,Life and Protection Insurance,Hanwha Life,Asia
+Insurance,Life and Protection Insurance,Cathay Life,Asia
+Insurance,Life and Protection Insurance,Fubon Life,Asia
+Insurance,Specialties Insurance,AXA,France
+Insurance,Specialties Insurance,SCOR,France
+Insurance,Specialties Insurance,Allianz,France
+Insurance,Specialties Insurance,Groupama,France
+Insurance,Specialties Insurance,Crédit Agricole Assurances,France
+Insurance,Specialties Insurance,Covéa,France
+Insurance,Specialties Insurance,La Banque Postale,France
+Insurance,Specialties Insurance,Generali,France
+Insurance,Specialties Insurance,Zurich,France
+Insurance,Specialties Insurance,Chubb,France
+Insurance,Specialties Insurance,AIG,France
+Insurance,Specialties Insurance,Hiscox,France
+Insurance,Specialties Insurance,QBE,France
+Insurance,Specialties Insurance,HDI Global,France
+Insurance,Specialties Insurance,Tokio Marine,France
+Insurance,Specialties Insurance,CNA Hardy,France
+Insurance,Specialties Insurance,Markel,France
+Insurance,Specialties Insurance,Liberty Mutual,France
+Insurance,Specialties Insurance,Arch Insurance,France
+Insurance,Specialties Insurance,Beazley,France
+Insurance,Specialties Insurance,Chubb,US
+Insurance,Specialties Insurance,AIG,US
+Insurance,Specialties Insurance,Markel,US
+Insurance,Specialties Insurance,Nationwide,US
+Insurance,Specialties Insurance,Liberty Mutual,US
+Insurance,Specialties Insurance,Arch Insurance,US
+Insurance,Specialties Insurance,Axis Capital,US
+Insurance,Specialties Insurance,CNA,US
+Insurance,Specialties Insurance,Everest Re,US
+Insurance,Specialties Insurance,Zurich,US
+Insurance,Specialties Insurance,Hiscox,US
+Insurance,Specialties Insurance,QBE,US
+Insurance,Specialties Insurance,Tokio Marine,US
+Insurance,Specialties Insurance,Beazley,US
+Insurance,Specialties Insurance,Great American,US
+Insurance,Specialties Insurance,Core Specialty,US
+Insurance,Specialties Insurance,Skyward Specialty,US
+Insurance,Specialties Insurance,Fortegra,US
+Insurance,Specialties Insurance,JM Specialty Insurance,US
+Insurance,Specialties Insurance,ProAssurance,US
+Insurance,Specialties Insurance,Prime Insurance,US
+Insurance,Specialties Insurance,Allianz,Europe
+Insurance,Specialties Insurance,Zurich,Europe
+Insurance,Specialties Insurance,Generali,Europe
+Insurance,Specialties Insurance,AXA,Europe
+Insurance,Specialties Insurance,QBE,Europe
+Insurance,Specialties Insurance,Hiscox,Europe
+Insurance,Specialties Insurance,Beazley,Europe
+Insurance,Specialties Insurance,HDI Global,Europe
+Insurance,Specialties Insurance,CNA Hardy,Europe
+Insurance,Specialties Insurance,Markel,Europe
+Insurance,Specialties Insurance,Liberty Mutual,Europe
+Insurance,Specialties Insurance,Arch Insurance,Europe
+Insurance,Specialties Insurance,Tokio Marine,Europe
+Insurance,Specialties Insurance,Munich Re,Europe
+Insurance,Specialties Insurance,Swiss Re,Europe
+Insurance,Specialties Insurance,Tokio Marine,Asia
+Insurance,Specialties Insurance,MS&AD Insurance Group,Asia
+Insurance,Specialties Insurance,Sompo Holdings,Asia
+Insurance,Specialties Insurance,Ping An Insurance,Asia
+Insurance,Specialties Insurance,China Pacific Insurance,Asia
+Insurance,Specialties Insurance,PICC,Asia
+Insurance,Specialties Insurance,Samsung Fire & Marine,Asia
+Insurance,Specialties Insurance,Hyundai Marine & Fire,Asia
+Insurance,Specialties Insurance,Cathay Century,Asia
+Insurance,Specialties Insurance,Fubon Insurance,Asia
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Messer Group,France
+Materials,Industrial Gases,SOL Group,France
+Materials,Industrial Gases,Nippon Sanso Holdings,France
+Materials,Industrial Gases,SIAD,France
+Materials,Industrial Gases,Praxair,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Messer Group,France
+Materials,Industrial Gases,SOL Group,France
+Materials,Industrial Gases,Nippon Sanso Holdings,France
+Materials,Industrial Gases,SIAD,France
+Materials,Industrial Gases,Praxair,France
+Materials,Industrial Gases,Praxair,France
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Air Products and Chemicals,US
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Linde plc,Europe
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Air Liquide,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Linde plc,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Air Products,France
+Materials,Industrial Gases,Messer Group,France
+Materials,Industrial Gases,Messer Group,France
+Materials,Industrial Gases,SOL Group,France
+Materials,Industrial Gases,SOL Group,France
+Materials,Industrial Gases,Nippon Sanso Holdings,France
+Materials,Industrial Gases,SIAD,France
+Materials,Industrial Gases,Praxair,France
+Materials,Industrial Gases,Praxair,France
+Materials,Metal & Glass Containers,Verallia,France
+Materials,Metal & Glass Containers,SGD Pharma,France
+Materials,Metal & Glass Containers,Bout' à Bout',France
+Materials,Metal & Glass Containers,Stoelzle Glass Group,France
+Materials,Metal & Glass Containers,Ardagh Group,France
+Materials,Metal & Glass Containers,O-I Glass,France
+Materials,Metal & Glass Containers,Gerresheimer,France
+Materials,Metal & Glass Containers,Vidrala,France
+Materials,Metal & Glass Containers,Bormioli Rocco,France
+Materials,Metal & Glass Containers,Vetropack,France
+Materials,Metal & Glass Containers,Feemio,France
+Materials,Metal & Glass Containers,Blueglass,France
+Materials,Metal & Glass Containers,La Tournée,France
+Materials,Metal & Glass Containers,Heraeus,France
+Materials,Metal & Glass Containers,Duralex,France
+Materials,Metal & Glass Containers,Stoelzle Glass Group,France
+Materials,Metal & Glass Containers,SGD Pharma,France
+Materials,Metal & Glass Containers,Ardagh Group,France
+Materials,Metal & Glass Containers,O-I Glass,France
+Materials,Metal & Glass Containers,Gerresheimer,France
+Materials,Metal & Glass Containers,Vidrala,France
+Materials,Metal & Glass Containers,Bormioli Rocco,France
+Materials,Metal & Glass Containers,Vetropack,France
+Materials,Metal & Glass Containers,Feemio,France
+Materials,Metal & Glass Containers,Blueglass,France
+Materials,Metal & Glass Containers,La Tournée,France
+Materials,Metal & Glass Containers,Heraeus,France
+Materials,Metal & Glass Containers,Duralex,France
+Materials,Metal & Glass Containers,Stoelzle Glass Group,France
+Materials,Metal & Glass Containers,SGD Pharma,France
+Materials,Metal & Glass Containers,Ardagh Group,France
+Materials,Metal & Glass Containers,O-I Glass,France
+Materials,Metal & Glass Containers,Gerresheimer,France
+Materials,Metal & Glass Containers,Vidrala,France
+Materials,Metal & Glass Containers,Bormioli Rocco,France
+Materials,Metal & Glass Containers,Vetropack,France
+Materials,Metal & Glass Containers,Feemio,France
+Materials,Metal & Glass Containers,Blueglass,France
+Materials,Metal &Glass Containers,La Tournée,France
+Materials,Metal & Glass Containers,Heraeus,France
+Materials,Metal & Glass Containers,Duralex,France
+Materials,Metal & Glass Containers,Stoelzle Glass Group,France
+Materials,Metal & Glass Containers,Verallia,France
+Materials,Metal & Glass Containers,SGD Pharma,France
+Materials,Metal & Glass Containers,SGD Pharma,France
+Materials,Metal & Glass Containers,Ardagh Group,France
+Materials,Metal & Glass Containers,O-I Glass,France
+Materials,Metal & Glass Containers,Gerresheimer,France
+Materials,Metal & Glass Containers,Vidrala,France
+Materials,Metal & Glass Containers,Bormioli Rocco,France
+Materials,Metal & Glass Containers,Vetropack,France
+Materials,Metal & Glass Containers,Stoelzle Glass Group,France
+Materials,Metal & Glass Containers,Duralex,France
+Materials,Metal & Glass Containers,Feemio,France
+Materials,Metal & Glass Containers,Blueglass,France
+Materials,Metal & Glass Containers,La Tournée,France
+Materials,Metal & Glass Containers,Heraeus,France
+Materials,Metal & Glass Containers,Bout' à Bout',France
+Natural Resources,Agricultural & Farm Machinery,John Deere,France
+Natural Resources,Agricultural & Farm Machinery,CNH Industrial,France
+Natural Resources,Agricultural & Farm Machinery,Kubota Corporation,France
+Natural Resources,Agricultural & Farm Machinery,AGCO Corporation,France
+Natural Resources,Agricultural & Farm Machinery,CLAAS Group,France
+Natural Resources,Agricultural & Farm Machinery,"Yanmar Co., Ltd.",France
+Natural Resources,Agricultural & Farm Machinery,Kuhn Group,France
+Natural Resources,Agricultural & Farm Machinery,Same Deutz-Fahr,France
+Natural Resources,Agricultural & Farm Machinery,Mahindra & Mahindra,France
+Natural Resources,Agricultural & Farm Machinery,"Iseki & Co., Ltd.",France
+Natural Resources,Agricultural & Farm Machinery,Fendt,France
+Natural Resources,Agricultural & Farm Machinery,Massey Ferguson,France
+Natural Resources,Agricultural & Farm Machinery,Valtra,France
+Natural Resources,Agricultural & Farm Machinery,JCB,France
+Natural Resources,Agricultural & Farm Machinery,Grégoire Besson,France
+Natural Resources,Agricultural & Farm Machinery,Monosem,France
+Natural Resources,Agricultural & Farm Machinery,Sulky-Burel,France
+Natural Resources,Agricultural & Farm Machinery,Rabaud,France
+Natural Resources,Agricultural & Farm Machinery,Agrisem,France
+Natural Resources,Agricultural & Farm Machinery,Caruelle,France
+Natural Resources,Agricultural & Farm Machinery,John Deere,US
+Natural Resources,Agricultural & Farm Machinery,CNH Industrial,US
+Natural Resources,Agricultural & Farm Machinery,AGCO Corporation,US
+Natural Resources,Agricultural & Farm Machinery,Kubota Corporation,US
+Natural Resources,Agricultural & Farm Machinery,Caterpillar Inc.,US
+Natural Resources,Agricultural & Farm Machinery,Vermeer Corporation,US
+Natural Resources,Agricultural & Farm Machinery,CLAAS Group,US
+Natural Resources,Agricultural & Farm Machinery,Mahindra & Mahindra,US
+Natural Resources,Agricultural & Farm Machinery,"Yanmar Co., Ltd.",US
+Natural Resources,Agricultural & Farm Machinery,"Iseki & Co., Ltd.",US
+Natural Resources,Agricultural & Farm Machinery,Massey Ferguson,US
+Natural Resources,Agricultural & Farm Machinery,Fendt,US
+Natural Resources,Agricultural & Farm Machinery,Valtra,US
+Natural Resources,Agricultural & Farm Machinery,JCB,US
+Natural Resources,Agricultural & Farm Machinery,New Holland,US
+Natural Resources,Agricultural & Farm Machinery,Case IH,US
+Natural Resources,Agricultural & Farm Machinery,Great Plains,US
+Natural Resources,Agricultural & Farm Machinery,Kinze Manufacturing,US
+Natural Resources,Agricultural & Farm Machinery,AG Leader Technology,US
+Natural Resources,Agricultural & Farm Machinery,Precision Planting,US
+Natural Resources,Agricultural & Farm Machinery,CNH Industrial,Europe
+Natural Resources,Agricultural & Farm Machinery,AGCO Corporation,Europe
+Natural Resources,Agricultural & Farm Machinery,CLAAS Group,Europe
+Natural Resources,Agricultural & Farm Machinery,Kubota Corporation,Europe
+Natural Resources,Agricultural & Farm Machinery,Same Deutz-Fahr,Europe
+Natural Resources,Agricultural & Farm Machinery,Mahindra & Mahindra,Europe
+Natural Resources,Agricultural & Farm Machinery,"Yanmar Co., Ltd.",Europe
+Natural Resources,Agricultural & Farm Machinery,"Iseki & Co., Ltd.",Europe
+Natural Resources,Agricultural & Farm Machinery,Massey Ferguson,Europe
+Natural Resources,Agricultural & Farm Machinery,Fendt,Europe
+Natural Resources,Agricultural & Farm Machinery,Valtra,Europe
+Natural Resources,Agricultural & Farm Machinery,JCB,Europe
+Natural Resources,Agricultural & Farm Machinery,Grégoire Besson,Europe
+Natural Resources,Agricultural & Farm Machinery,Monosem,Europe
+Natural Resources,Agricultural & Farm Machinery,Sulky-Burel,Europe
+Natural Resources,Agricultural & Farm Machinery,Rabaud,Europe
+Natural Resources,Agricultural & Farm Machinery,Agrisem,Europe
+Natural Resources,Agricultural & Farm Machinery,Caruelle,Europe
+Natural Resources,Agricultural & Farm Machinery,Kubota Corporation,Asia
+Natural Resources,Agricultural & Farm Machinery,Mahindra & Mahindra,Asia
+Natural Resources,Agricultural & Farm Machinery,"Yanmar Co., Ltd.",Asia
+Natural Resources,Agricultural & Farm Machinery,"Iseki & Co., Ltd.",Asia
+Natural Resources,Agricultural & Farm Machinery,CLAAS Group,Asia
+Natural Resources,Agricultural & Farm Machinery,AGCO Corporation,Asia
+Natural Resources,Agricultural & Farm Machinery,CNH Industrial,Asia
+Natural Resources,Agricultural & Farm Machinery,John Deere,Asia
+Natural Resources,Agricultural & Farm Machinery,SDF Group,Asia
+Natural Resources,Agricultural & Farm Machinery,Escorts Limited,Asia
+Natural Resources,Mining,Eramet,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Orano,France
+Natural Resources,Mining,La Française de l'Énergie,France
+Natural Resources,Mining,Terrafame,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Mining,Imerys,France
+Natural Resources,Paper & Forest Products,Exacompta Clairefontaine,France
+Natural Resources,Paper & Forest Products,Exacompta Clairefontaine,France
+Natural Resources,Paper & Forest Products,Exacompta Clairefontaine,France
+Natural Resources,Paper & Forest Products,Exacompta Clairefontaine,France
+Natural Resources,Paper & Forest Products,Exacompta Clairefontaine,France
+Natural Resources,Paper & Forest Products,Groupe Gascogne,France
+Natural Resources,Paper & Forest Products,Groupe Gascogne,France
+Natural Resources,Paper & Forest Products,Groupe Gascogne,France
+Natural Resources,Paper & Forest Products,Groupe Gascogne,France
+Natural Resources,Paper & Forest Products,Matussière & Forest,France
+Natural Resources,Paper & Forest Products,Canson,France
+Natural Resources,Paper & Forest Products,Sonae Indústria,France
+Natural Resources,Paper & Forest Products,Sonae Indústria,France
+Natural Resources,Paper & Forest Products,Paper Excellence,France
+Natural Resources,Paper & Forest Products,Paper Excellence,France
+Natural Resources,Paper & Forest Products,Smurfit Kappa Group,France
+Natural Resources,Paper & Forest Products,UPM-Kymmene Corporation,France
+Natural Resources,Paper & Forest Products,Stora Enso,France
+Natural Resources,Paper & Forest Products,International Paper,France
+Natural Resources,Paper & Forest Products,Mondi Group,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Arkema,France
+Process Industries,Chemicals,Air Liquide,France
+Process Industries,Chemicals,Air Liquide,France
+Process Industries,Chemicals,Air Liquide,France
+Process Industries,Chemicals,Solvay,France
+Process Industries,Chemicals,Solvay,France
+Process Industries,Chemicals,Solvay,France
+Process Industries,Chemicals,BASF,France
+Process Industries,Chemicals,BASF,France
+Process Industries,Chemicals,BASF,France
+Process Industries,Chemicals,TotalEnergies,France
+Process Industries,Chemicals,TotalEnergies,France
+Process Industries,Chemicals,TotalEnergies,France
+Process Industries,Chemicals,ExxonMobil,France
+Process Industries,Chemicals,ExxonMobil,France
+Process Industries,Chemicals,ExxonMobil,France
+Process Industries,Chemicals,INEOS,France
+Process Industries,Chemicals,INEOS,France
+Process Industries,Chemicals,INEOS,France
+Process Industries,Chemicals,L'Oréal,France
+Process Industries,Chemicals,L'Oréal,France
+Process Industries,Chemicals,L'Oréal,France
+Process Industries,Chemicals,Sanofi,France
+Process Industries,Chemicals,Sanofi,France
+Process Industries,Chemicals,Sanofi,France
+Process Industries,Chemicals,Merck,France
+Process Industries,Chemicals,Merck,France
+Process Industries,Chemicals,Merck,France
+Process Industries,Chemicals,Dow,France
+Process Industries,Chemicals,Dow,France
+Process Industries,Chemicals,Dow,France
+Process Industries,Chemicals,LVMH,France
+Process Industries,Chemicals,LVMH,France
+Process Industries,Chemicals,LVMH,France
+Process Industries,Chemicals,Givaudan,France
+Process Industries,Chemicals,Givaudan,France
+Process Industries,Chemicals,Givaudan,France
+Process Industries,Chemicals,Clariant,France
+Process Industries,Chemicals,Clariant,France
+Process Industries,Chemicals,Clariant,France
+Process Industries,Chemicals,Huntsman,France
+Process Industries,Chemicals,Huntsman,France
+Process Industries,Chemicals,Huntsman,France
+Process Industries,Chemicals,Bayer,France
+Process Industries,Chemicals,Bayer,France
+Process Industries,Chemicals,Bayer,France
+Process Industries,Chemicals,Evonik,France
+Process Industries,Chemicals,Evonik,France
+Process Industries,Chemicals,Evonik,France
+Process Industries,Chemicals,Syngenta,France
+Process Industries,Chemicals,Syngenta,France
+Process Industries,Chemicals,Syngenta,France
+Process Industries,Chemicals,Novacap,France
+Process Industries,Chemicals,Novacap,France
+Process Industries,Chemicals,Novacap,France
+Process Industries,Chemicals,Axyntis,France
+Process Industries,Chemicals,Axyntis,France
+Process Industries,Chemicals,Axyntis,France
+Process Industries,Chemicals,SNF Group,France
+Process Industries,Chemicals,SNF Group,France
+Process Industries,Chemicals,SNF Group,France
+Process Industries,Chemicals,Kem One,France
+Process Industries,Chemicals,Kem One,France
+Process Industries,Chemicals,Kem One,France
+Process Industries,Chemicals,Adisseo,France
+Process Industries,Chemicals,Adisseo,France
+Process Industries,Chemicals,Adisseo,France
+Process Industries,Chemicals,Carbios,France
+Process Industries,Chemicals,Carbios,France
+Process Industries,Chemicals,Carbios,France
+Process Industries,Chemicals,PCAS,France
+Process Industries,Chemicals,PCAS,France
+Process Industries,Chemicals,PCAS,France
+Process Industries,Chemicals,Seqens,France
+Process Industries,Chemicals,Seqens,France
+Process Industries,Chemicals,Seqens,France
+Process Industries,Chemicals,Minakem,France
+Process Industries,Chemicals,Minakem,France
+Process Industries,Chemicals,Minakem,France
+Process Industries,Chemicals,Orano,France
+Process Industries,Chemicals,Orano,France
+Process Industries,Chemicals,Orano,France
+Process Industries,Chemicals,Eurenco,France
+Process Industries,Chemicals,Eurenco,France
+Process Industries,Chemicals,Eurenco,France
+Process Industries,Chemicals,Groupe Roullier,France
+Process Industries,Chemicals,Groupe Roullier,France
+Process Industries,Chemicals,Groupe Roullier,France
+Process Industries,Chemicals,Avril Group,France
+Process Industries,Chemicals,Avril Group,France
+Process Industries,Chemicals,Avril Group,France
+Process Industries,Chemicals,Lactips,France
+Process Industries,Chemicals,Lactips,France
+Process Industries,Chemicals,Lactips,France
+Process Industries,Chemicals,FunCell,France
+Process Industries,Chemicals,FunCell,France
+Process Industries,Chemicals,FunCell,France
+Process Industries,Chemicals,Abridis,France
+Process Industries,Chemicals,Abridis,France
+Process Industries,Chemicals,Abridis,France
+Process Industries,Chemicals,ALTICHEM,France
+Process Industries,Chemicals,ALTICHEM,France
+Process Industries,Chemicals,ALTICHEM,France
+Process Industries,Chemicals,Arcane Industries,France
+Real Estate,Equity REITs,Gecina,France
+Real Estate,Equity REITs,Covivio,France
+Real Estate,Equity REITs,Icade,France
+Real Estate,Equity REITs,Unibail-Rodamco-Westfield,France
+Real Estate,Equity REITs,Klépierre,France
+Real Estate,Equity REITs,Argan,France
+Real Estate,Equity REITs,Altarea,France
+Real Estate,Equity REITs,Société de la Tour Eiffel,France
+Real Estate,Equity REITs,Foncière INEA,France
+Real Estate,Equity REITs,Immobilière Dassault,France
+Real Estate,Equity REITs,Carmila,France
+Real Estate,Equity REITs,Mercialys,France
+Real Estate,Equity REITs,Patrimoine & Commerce,France
+Real Estate,Equity REITs,Paref,France
+Real Estate,Equity REITs,Bleecker,France
+Real Estate,Equity REITs,Prologis,US
+Real Estate,Equity REITs,Simon Property Group,US
+Real Estate,Equity REITs,Public Storage,US
+Real Estate,Equity REITs,Digital Realty,US
+Real Estate,Equity REITs,Equinix,US
+Real Estate,Equity REITs,AvalonBay Communities,US
+Real Estate,Equity REITs,Welltower,US
+Real Estate,Equity REITs,Realty Income Corporation,US
+Real Estate,Equity REITs,American Tower,US
+Real Estate,Equity REITs,Vonovia,Europe
+Real Estate,Equity REITs,LEG Immobilien,Europe
+Real Estate,Equity REITs,Aroundtown SA,Europe
+Real Estate,Equity REITs,Merlin Properties,Europe
+Real Estate,Equity REITs,Segro,Europe
+Real Estate,Equity REITs,Land Securities Group,Europe
+Real Estate,Equity REITs,British Land Company,Europe
+Real Estate,Equity REITs,Unite Group,Europe
+Real Estate,Equity REITs,Link REIT,Asia
+Real Estate,Equity REITs,GLP,Asia
+Real Estate,Equity REITs,Nippon Building Fund,Asia
+Real Estate,Equity REITs,Ascendas REIT,Asia
+Real Estate,Equity REITs,CapitaLand Integrated Comm.,Asia
+Real Estate,Equity REITs,Mapletree Industrial Trust,Asia
+Real Estate,Equity REITs,Daiwa House REIT,Asia
+Real Estate,Equity REITs,ESR-LOGOS REIT,Asia
+Services,Other Industrials,Rubix,France
+Services,Other Industrials,Paprec,France
+Services,Other Industrials,Ponticelli Frères,France
+Services,Other Industrials,Equans (Bouygues),France
+Services,Other Industrials,Vinci Energies,France
+Services,Other Industrials,SPIE,France
+Services,Other Industrials,Derichebourg,France
+Services,Other Industrials,Fives Group,France
+Services,Other Industrials,SNEF,France
+Services,Other Industrials,Clemessy (Eiffage Énergie Systèmes),France
+Services,Other Industrials,Assystem,France
+Services,Other Industrials,Altrad,France
+Services,Other Industrials,Onet,France
+Services,Other Industrials,Engie Solutions,France
+Services,Other Industrials,Idex,France
+Services,Human Resource & Employment Services,ManpowerGroup,France
+Services,Human Resource & Employment Services,Adecco Group,France
+Services,Human Resource & Employment Services,Randstad,France
+Services,Human Resource & Employment Services,Groupe Adéquat,France
+Services,Human Resource & Employment Services,Hays,France
+Services,Human Resource & Employment Services,Synergie,France
+Services,Human Resource & Employment Services,PageGroup,France
+Services,Human Resource & Employment Services,Iziwork,France
+Services,Human Resource & Employment Services,HR Path,France
+Services,Human Resource & Employment Services,Gini Talent,France
+Services,Human Resource & Employment Services,Atlean World,France
+Services,Human Resource & Employment Services,Keller Executive Search,France
+Services,Human Resource & Employment Services,Airswift,France
+Services,Human Resource & Employment Services,Teleperformance,France
+Services,Human Resource & Employment Services,Parakar Group,France
+Services,Human Resource & Employment Services,GritHR Solutions,France
+Services,Human Resource & Employment Services,ABP Solutions,France
+Services,Human Resource & Employment Services,Alphee,France
+Services,Human Resource & Employment Services,Bitwage,France
+Services,Human Resource & Employment Services,MBHR,France
+Services,Human Resource & Employment Services,B2R Consulting,France
+Services,Human Resource & Employment Services,HR Switch,France
+Services,Human Resource & Employment Services,Adm In ME,France
+Services,Other Services,Sodexo,France
+Services,Other Services,Elior Group,France
+Services,Other Services,Derichebourg Multiservices,France
+Services,Other Services,Onet,France
+Services,Other Services,Samsic,France
+Services,Other Services,ISS France,France
+Services,Other Services,Atalian Global Services,France
+Services,Other Services,Seris Group,France
+Services,Other Services,GSF,France
+Services,Other Services,Dalkia,France
+Transportation,Airlines,Air France,France
+Transportation,Airlines,Transavia France,France
+Transportation,Airlines,HOP!,France
+Transportation,Airlines,Corsair International,France
+Transportation,Airlines,French Bee,France
+Transportation,Airlines,ASL Airlines France,France
+Transportation,Airlines,Air Corsica,France
+Transportation,Airlines,Air Caraïbes,France
+Transportation,Airlines,Chalair Aviation,France
+Transportation,Railroads,SNCF,France
+Transportation,Railroads,SNCF Réseau,France
+Transportation,Railroads,SNCF Voyageurs,France
+Transportation,Railroads,Rail Logistics Europe,France
+Transportation,Railroads,Eurostar Group,France
+Transportation,Railroads,TGV Lyria,France
+Transportation,Railroads,Trenitalia France,France
+Transportation,Railroads,Renfe,France
+Transportation,Railroads,DB Cargo France,France
+Transportation,Railroads,Europorte,France
+Transportation,Railroads,RegioRail France,France
+Transportation,Railroads,Railcoop,France
+Transportation,Railroads,Proxima,France
+Transportation,Railroads,Getlink,France
+Transportation,Shipping,CMA CGM,France
+Transportation,Shipping,La Méridionale,France
+Transportation,Shipping,Brittany Ferries,France
+Transportation,Shipping,Compagnie Maritime Nantaise,France
+Transportation,Shipping,Corsica Linea,France
+Transportation,Shipping,Corsica Ferries,France
+Transportation,Shipping,Neoline,France
+Transportation,Shipping,TOWT (TransOceanic Wind Transport),France
+Transportation,Shipping,Marfret,France
+Transportation,Shipping,LD Bulk,France
+Transportation,Trucking,Geodis,France
+Transportation,Trucking,CEVA Logistics,France
+Transportation,Trucking,Bolloré Logistics,France
+Transportation,Trucking,Rhenus Logistics France,France
+Transportation,Trucking,Bansard International,France
+Transportation,Trucking,Stockoss,France
+Transportation,Trucking,Groupe 2L Logistics,France
+Transportation,Trucking,Top Chrono,France
+Transportation,Trucking,DG Europe Express,France
+Transportation,Trucking,Virgomove,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Accor,France
+Hospitality & Tourism,Hospitality,Louvre Hotels Group,France
+Hospitality & Tourism,Hospitality,Louvre Hotels Group,France
+Hospitality & Tourism,Hospitality,Louvre Hotels Group,France
+Hospitality & Tourism,Hospitality,B&B Hotels,France
+Hospitality & Tourism,Hospitality,Brit Hotel Groupe,France
+Hospitality & Tourism,Hospitality,Best Western Hotels & Resorts,France
+Hospitality & Tourism,Hospitality,Best Western Hotels & Resorts,France
+Hospitality & Tourism,Hospitality,Disneyland Hotels & Resorts,France
+Hospitality & Tourism,Hospitality,Oceania Hotels,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Evok Collection,France
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Marriott International,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hilton Worldwide,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Hyatt Hotels Corporation,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Wyndham Hotels & Resorts,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,Choice Hotels International,US
+Hospitality & Tourism,Hospitality,InterContinental Hotels Group,Europe
+Hospitality & Tourism,Hospitality,InterContinental Hotels Group,Europe
+Hospitality & Tourism,Hospitality,InterContinental Hotels Group,Europe
+Hospitality & Tourism,Hospitality,InterContinental Hotels Group,Europe
+Hospitality & Tourism,Hospitality,Whitbread,Europe
+Hospitality & Tourism,Hospitality,Meliá Hotels International,Europe
+Hospitality & Tourism,Hospitality,NH Hotel Group,Europe
+Hospitality & Tourism,Hospitality,TUI Group,Europe
+Hospitality & Tourism,Hospitality,TUI Group,Europe
+Hospitality & Tourism,Hospitality,Deutsche Hospitality,Europe
+Hospitality & Tourism,Hospitality,Deutsche Hospitality,Europe
+Hospitality & Tourism,Hospitality,Radisson Hotel Group,Europe
+Hospitality & Tourism,Hospitality,Indian Hotels Company,Asia
+Hospitality & Tourism,Hospitality,Indian Hotels Company,Asia
+Hospitality & Tourism,Hospitality,Indian Hotels Company,Asia
+Hospitality & Tourism,Hospitality,OYO Rooms,Asia
+Hospitality & Tourism,Hospitality,OYO Rooms,Asia
+Hospitality & Tourism,Hospitality,Shangri-La Asia,Asia
+Hospitality & Tourism,Hospitality,Shangri-La Asia,Asia
+Hospitality & Tourism,Hospitality,Shangri-La Asia,Asia
+Hospitality & Tourism,Hospitality,Dusit International,Asia
+Hospitality & Tourism,Hospitality,Dusit International,Asia
